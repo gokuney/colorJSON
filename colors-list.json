@@ -1,0 +1,8163 @@
+{
+    "colors": [
+        {
+            "name": "Air Force Blue",
+            "code565": "0x5C54",
+            "code888": "#5D8AA8"
+        },
+        {
+            "name": "Alice Blue",
+            "code565": "0xEFBF",
+            "code888": "#F0F8FF"
+        },
+        {
+            "name": "Argentinian Blue",
+            "code565": "0x6D9D",
+            "code888": "#6CB4EE"
+        },
+        {
+            "name": "Azure",
+            "code565": "0x041F",
+            "code888": "#0080FF"
+        },
+        {
+            "name": "Azure (X11/web color)",
+            "code565": "0xEFFF",
+            "code888": "#F0FFFF"
+        },
+        {
+            "name": "Baby Blue",
+            "code565": "0x8E7D",
+            "code888": "#89CFF0"
+        },
+        {
+            "name": "Berkeley Blue",
+            "code565": "0x018C",
+            "code888": "#003262"
+        },
+        {
+            "name": "Bleu de France",
+            "code565": "0x347C",
+            "code888": "#318CE7"
+        },
+        {
+            "name": "Blue (Crayola)",
+            "code565": "0x23BF",
+            "code888": "#1F75FE"
+        },
+        {
+            "name": "Blue (Munsell)",
+            "code565": "0x0495",
+            "code888": "#0093AF"
+        },
+        {
+            "name": "Blue (NCS)",
+            "code565": "0x0437",
+            "code888": "#0087BD"
+        },
+        {
+            "name": "Brandeis Blue",
+            "code565": "0x039F",
+            "code888": "#0070FF"
+        },
+        {
+            "name": "Celestial Blue",
+            "code565": "0x4CB9",
+            "code888": "#4997D0"
+        },
+        {
+            "name": "Celtic Blue",
+            "code565": "0x2359",
+            "code888": "#246BCE"
+        },
+        {
+            "name": "Cerulean",
+            "code565": "0x03D4",
+            "code888": "#007BA7"
+        },
+        {
+            "name": "Chefchaouen Blue",
+            "code565": "0x4C7C",
+            "code888": "#468fea"
+        },
+        {
+            "name": "Columbia Blue",
+            "code565": "0xB6DD",
+            "code888": "#B9D9EB"
+        },
+        {
+            "name": "Cornflower Blue",
+            "code565": "0x64BD",
+            "code888": "#6495ED"
+        },
+        {
+            "name": "Deep Sky Blue",
+            "code565": "0x05FF",
+            "code888": "#00BFFF"
+        },
+        {
+            "name": "Delft Blue",
+            "code565": "0x218B",
+            "code888": "#1F305E"
+        },
+        {
+            "name": "Dodger Blue",
+            "code565": "0x249F",
+            "code888": "#1E90FF"
+        },
+        {
+            "name": "French Blue",
+            "code565": "0x0397",
+            "code888": "#0072BB"
+        },
+        {
+            "name": "Green-blue",
+            "code565": "0x1336",
+            "code888": "#1164B4"
+        },
+        {
+            "name": "Honolulu Blue",
+            "code565": "0x03B6",
+            "code888": "#0076B6"
+        },
+        {
+            "name": "Jordy Blue",
+            "code565": "0x8DDD",
+            "code888": "#8AB9F1"
+        },
+        {
+            "name": "Lapis Lazuli",
+            "code565": "0x2B13",
+            "code888": "#26619C"
+        },
+        {
+            "name": "Light blue",
+            "code565": "0xAEBC",
+            "code888": "#ADD8E6"
+        },
+        {
+            "name": "Light Sky Blue",
+            "code565": "0x867E",
+            "code888": "#87CEFA"
+        },
+        {
+            "name": "Maya Blue",
+            "code565": "0x761F",
+            "code888": "#73C2FB"
+        },
+        {
+            "name": "Pale azure",
+            "code565": "0x869E",
+            "code888": "#87D3F8"
+        },
+        {
+            "name": "Picton Blue",
+            "code565": "0x459C",
+            "code888": "#45B1E8"
+        },
+        {
+            "name": "Polynesian Blue",
+            "code565": "0x2272",
+            "code888": "#224C98"
+        },
+        {
+            "name": "Resolution Blue",
+            "code565": "0x0130",
+            "code888": "#002387"
+        },
+        {
+            "name": "Royal blue (traditional)",
+            "code565": "0x012C",
+            "code888": "#002366"
+        },
+        {
+            "name": "Royal Blue (web color)",
+            "code565": "0x435B",
+            "code888": "#4169E1"
+        },
+        {
+            "name": "Ruddy Blue",
+            "code565": "0x755B",
+            "code888": "#76ABDF"
+        },
+        {
+            "name": "Sapphire",
+            "code565": "0x092D",
+            "code888": "#082567"
+        },
+        {
+            "name": "Silver Lake Blue",
+            "code565": "0x5C57",
+            "code888": "#5D89BA"
+        },
+        {
+            "name": "Sky Blue",
+            "code565": "0x867D",
+            "code888": "#87CEEB"
+        },
+        {
+            "name": "Spanish Blue",
+            "code565": "0x0397",
+            "code888": "#0070BB"
+        },
+        {
+            "name": "Steel Blue",
+            "code565": "0x4C16",
+            "code888": "#4682B4"
+        },
+        {
+            "name": "Tang Blue",
+            "code565": "0x02D9",
+            "code888": "#0059CF"
+        },
+        {
+            "name": "True Blue",
+            "code565": "0x2B58",
+            "code888": "#2D68C4"
+        },
+        {
+            "name": "Tufts Blue",
+            "code565": "0x447B",
+            "code888": "#3E8EDE"
+        },
+        {
+            "name": "United Nations Blue",
+            "code565": "0x4C9B",
+            "code888": "#4B92DB"
+        },
+        {
+            "name": "Vista Blue",
+            "code565": "0x7CFA",
+            "code888": "#7C9ED9"
+        },
+        {
+            "name": "Yale 'Blue Site' Blue",
+            "code565": "0x01AD",
+            "code888": "#00356B"
+        },
+        {
+            "name": "Bean",
+            "code565": "0x3860",
+            "code888": "#3D0C02"
+        },
+        {
+            "name": "Black",
+            "code565": "0x0000",
+            "code888": "#000000"
+        },
+        {
+            "name": "Black bean",
+            "code565": "0x3860",
+            "code888": "#3D0C02"
+        },
+        {
+            "name": "Black chocolate",
+            "code565": "0x18C2",
+            "code888": "#1B1811"
+        },
+        {
+            "name": "Black coffee",
+            "code565": "0x3986",
+            "code888": "#3B2F2F"
+        },
+        {
+            "name": "Black coral",
+            "code565": "0x530D",
+            "code888": "#54626F"
+        },
+        {
+            "name": "Black olive",
+            "code565": "0x39E7",
+            "code888": "#3B3C36"
+        },
+        {
+            "name": "Black Shadows",
+            "code565": "0xBD76",
+            "code888": "#BFAFB2"
+        },
+        {
+            "name": "Charcoal",
+            "code565": "0x3A2A",
+            "code888": "#36454F"
+        },
+        {
+            "name": "Charleston green",
+            "code565": "0x2165",
+            "code888": "#232B2B"
+        },
+        {
+            "name": "Davy's gray",
+            "code565": "0x52AA",
+            "code888": "#555555"
+        },
+        {
+            "name": "Dim gray",
+            "code565": "0x6B4D",
+            "code888": "#696969"
+        },
+        {
+            "name": "Ebony",
+            "code565": "0x52EA",
+            "code888": "#555D50"
+        },
+        {
+            "name": "Eerie black",
+            "code565": "0x18E3",
+            "code888": "#1B1B1B"
+        },
+        {
+            "name": "Jet",
+            "code565": "0x31A6",
+            "code888": "#343434"
+        },
+        {
+            "name": "Licorice",
+            "code565": "0x1882",
+            "code888": "#1A1110"
+        },
+        {
+            "name": "Olive (RAL)",
+            "code565": "0x39E7",
+            "code888": "#3B3C36"
+        },
+        {
+            "name": "Onyx",
+            "code565": "0x31C7",
+            "code888": "#353839"
+        },
+        {
+            "name": "Outer Space",
+            "code565": "0x4249",
+            "code888": "#414A4C"
+        },
+        {
+            "name": "Raisin Black",
+            "code565": "0x2104",
+            "code888": "#242124"
+        },
+        {
+            "name": "Rich black",
+            "code565": "0x0208",
+            "code888": "#004040"
+        },
+        {
+            "name": "Rich black (FOGRA29)",
+            "code565": "0x0062",
+            "code888": "#010B13"
+        },
+        {
+            "name": "Rich black (FOGRA39)",
+            "code565": "0x0000",
+            "code888": "#010203"
+        },
+        {
+            "name": "Smoky black",
+            "code565": "0x1061",
+            "code888": "#100C08"
+        },
+        {
+            "name": "Taupe",
+            "code565": "0x49E6",
+            "code888": "#483C32"
+        },
+        {
+            "name": "Warm black",
+            "code565": "0x0208",
+            "code888": "#004242"
+        },
+        {
+            "name": "Aero blue",
+            "code565": "0xBF3A",
+            "code888": "#C0E8D5"
+        },
+        {
+            "name": "Air superiority blue",
+            "code565": "0x7517",
+            "code888": "#72A0C1"
+        },
+        {
+            "name": "Argentinian Blue",
+            "code565": "0x6D9D",
+            "code888": "#6CB4EE"
+        },
+        {
+            "name": "Baby Blue",
+            "code565": "0x8E7D",
+            "code888": "#89CFF0"
+        },
+        {
+            "name": "Baby blue eyes",
+            "code565": "0xA65D",
+            "code888": "#A1CAF1"
+        },
+        {
+            "name": "Bdazzled blue",
+            "code565": "0x32D2",
+            "code888": "#2E5894"
+        },
+        {
+            "name": "Beau blue",
+            "code565": "0xBE9C",
+            "code888": "#BCD4E6"
+        },
+        {
+            "name": "Berkeley Blue",
+            "code565": "0x018C",
+            "code888": "#003262"
+        },
+        {
+            "name": "Bleu de France",
+            "code565": "0x347C",
+            "code888": "#318CE7"
+        },
+        {
+            "name": "Blizzard blue",
+            "code565": "0xAF3D",
+            "code888": "#ACE5EE"
+        },
+        {
+            "name": "Blue",
+            "code565": "0x001F",
+            "code888": "#0000FF"
+        },
+        {
+            "name": "Blue bell",
+            "code565": "0xA519",
+            "code888": "#A2A2D0"
+        },
+        {
+            "name": "Blue (CMYK) (pigment blue)",
+            "code565": "0x31B3",
+            "code888": "#333399"
+        },
+        {
+            "name": "Blue (Computer web color)",
+            "code565": "0x001F",
+            "code888": "#0000FF"
+        },
+        {
+            "name": "Blue (Crayola)",
+            "code565": "0x23BF",
+            "code888": "#1F75FE"
+        },
+        {
+            "name": "Blue-green (color wheel)",
+            "code565": "0x0A68",
+            "code888": "#064E40"
+        },
+        {
+            "name": "Blue jeans",
+            "code565": "0x5D7D",
+            "code888": "#5DADEC"
+        },
+        {
+            "name": "Blue (Munsell)",
+            "code565": "0x0495",
+            "code888": "#0093AF"
+        },
+        {
+            "name": "Blue (NCS)",
+            "code565": "0x0437",
+            "code888": "#0087BD"
+        },
+        {
+            "name": "Blue (Pantone)",
+            "code565": "0x00D4",
+            "code888": "#0018A8"
+        },
+        {
+            "name": "Blue (pigment)",
+            "code565": "0x31B3",
+            "code888": "#333399"
+        },
+        {
+            "name": "Blue (RYB)",
+            "code565": "0x025F",
+            "code888": "#0247FE"
+        },
+        {
+            "name": "Blue sapphire",
+            "code565": "0x1310",
+            "code888": "#126180"
+        },
+        {
+            "name": "Blue-violet",
+            "code565": "0x897B",
+            "code888": "#8A2BE2"
+        },
+        {
+            "name": "Blue-violet (color wheel)",
+            "code565": "0x48CF",
+            "code888": "#4D1A7F"
+        },
+        {
+            "name": "Blue-violet (Crayola)",
+            "code565": "0x7337",
+            "code888": "#7366BD"
+        },
+        {
+            "name": "Blue yonder",
+            "code565": "0x5394",
+            "code888": "#5072A7"
+        },
+        {
+            "name": "Bluetiful",
+            "code565": "0x3B5C",
+            "code888": "#3C69E7"
+        },
+        {
+            "name": "Bright navy blue",
+            "code565": "0x1BBA",
+            "code888": "#1974D2"
+        },
+        {
+            "name": "Cadet blue",
+            "code565": "0x64F3",
+            "code888": "#5F9EA0"
+        },
+        {
+            "name": "Cadet blue (Crayola)",
+            "code565": "0xAD98",
+            "code888": "#A9B2C3"
+        },
+        {
+            "name": "Cambridge blue",
+            "code565": "0xA615",
+            "code888": "#A3C1AD"
+        },
+        {
+            "name": "Carolina blue",
+            "code565": "0x551A",
+            "code888": "#56A0D3"
+        },
+        {
+            "name": "Celadon blue",
+            "code565": "0x03D4",
+            "code888": "#007BA7"
+        },
+        {
+            "name": "Celtic Blue",
+            "code565": "0x2359",
+            "code888": "#246BCE"
+        },
+        {
+            "name": "Cerulean blue",
+            "code565": "0x2A97",
+            "code888": "#2A52BE"
+        },
+        {
+            "name": "CG blue",
+            "code565": "0x03D4",
+            "code888": "#007AA5"
+        },
+        {
+            "name": "Chefchaouen Blue",
+            "code565": "0x4C7C",
+            "code888": "#468fea"
+        },
+        {
+            "name": "Cobalt blue",
+            "code565": "0x0255",
+            "code888": "#0047AB"
+        },
+        {
+            "name": "Dark Blue",
+            "code565": "0x0011",
+            "code888": "#00008B"
+        },
+        {
+            "name": "Dark blue-gray",
+            "code565": "0x6333",
+            "code888": "#666699"
+        },
+        {
+            "name": "Dark cornflower blue",
+            "code565": "0x2A11",
+            "code888": "#26428B"
+        },
+        {
+            "name": "Dark electric blue",
+            "code565": "0x534F",
+            "code888": "#536878"
+        },
+        {
+            "name": "Dark sky blue",
+            "code565": "0x8DFA",
+            "code888": "#8CBED6"
+        },
+        {
+            "name": "Dark slate blue",
+            "code565": "0x49F1",
+            "code888": "#483D8B"
+        },
+        {
+            "name": "Delft Blue",
+            "code565": "0x218B",
+            "code888": "#1F305E"
+        },
+        {
+            "name": "Denim blue",
+            "code565": "0x2236",
+            "code888": "#2243B6"
+        },
+        {
+            "name": "Duck Blue",
+            "code565": "0x03B2",
+            "code888": "#007791"
+        },
+        {
+            "name": "Duke blue",
+            "code565": "0x0013",
+            "code888": "#00009C"
+        },
+        {
+            "name": "Egyptian Blue",
+            "code565": "0x11B4",
+            "code888": "#1034A6"
+        },
+        {
+            "name": "Eton blue",
+            "code565": "0x9634",
+            "code888": "#96C8A2"
+        },
+        {
+            "name": "Fluorescent blue",
+            "code565": "0x1F9D",
+            "code888": "#15F4EE"
+        },
+        {
+            "name": "French sky blue",
+            "code565": "0x75BF",
+            "code888": "#77B5FE"
+        },
+        {
+            "name": "Green-blue (Crayola)",
+            "code565": "0x2C38",
+            "code888": "#2887C8"
+        },
+        {
+            "name": "Han blue",
+            "code565": "0x4379",
+            "code888": "#446CCF"
+        },
+        {
+            "name": "Ice Blue",
+            "code565": "0x9FFF",
+            "code888": "#99FFFF"
+        },
+        {
+            "name": "Independence",
+            "code565": "0x4A8D",
+            "code888": "#4C516D"
+        },
+        {
+            "name": "International Klein Blue",
+            "code565": "0x1051",
+            "code888": "#120A8F"
+        },
+        {
+            "name": "Italian sky blue",
+            "code565": "0xB7FF",
+            "code888": "#B2FFFF"
+        },
+        {
+            "name": "Lavender blue",
+            "code565": "0xCE5F",
+            "code888": "#CCCCFF"
+        },
+        {
+            "name": "Liberty",
+            "code565": "0x52D4",
+            "code888": "#545AA7"
+        },
+        {
+            "name": "Light blue",
+            "code565": "0xAEBC",
+            "code888": "#ADD8E6"
+        },
+        {
+            "name": "Light cornflower blue",
+            "code565": "0x965C",
+            "code888": "#93CCEA"
+        },
+        {
+            "name": "Light steel blue",
+            "code565": "0xAE1B",
+            "code888": "#B0C4DE"
+        },
+        {
+            "name": "Little boy blue",
+            "code565": "0x6D1B",
+            "code888": "#6CA0DC"
+        },
+        {
+            "name": "Majorelle blue",
+            "code565": "0x629B",
+            "code888": "#6050DC"
+        },
+        {
+            "name": "Maximum blue",
+            "code565": "0x4D59",
+            "code888": "#47ABCC"
+        },
+        {
+            "name": "Maximum blue green",
+            "code565": "0x35F7",
+            "code888": "#30BFBF"
+        },
+        {
+            "name": "Maximum blue purple",
+            "code565": "0xAD5C",
+            "code888": "#ACACE6"
+        },
+        {
+            "name": "Medium Blue",
+            "code565": "0x0019",
+            "code888": "#0000CD"
+        },
+        {
+            "name": "Medium slate blue",
+            "code565": "0x7B5D",
+            "code888": "#7B68EE"
+        },
+        {
+            "name": "Middle blue",
+            "code565": "0x7E9C",
+            "code888": "#7ED4E6"
+        },
+        {
+            "name": "Middle blue green",
+            "code565": "0x8ED9",
+            "code888": "#8DD9CC"
+        },
+        {
+            "name": "Middle blue purple",
+            "code565": "0x8B97",
+            "code888": "#8B72BE"
+        },
+        {
+            "name": "Midnight Blue",
+            "code565": "0x18CE",
+            "code888": "#191970"
+        },
+        {
+            "name": "Morning blue",
+            "code565": "0x8D13",
+            "code888": "#8DA399"
+        },
+        {
+            "name": "Navy Blue",
+            "code565": "0x0010",
+            "code888": "#000080"
+        },
+        {
+            "name": "Navy blue (Crayola)",
+            "code565": "0x1BBA",
+            "code888": "#1974D2"
+        },
+        {
+            "name": "Neon Blue",
+            "code565": "0x4A7F",
+            "code888": "#4D4DFF"
+        },
+        {
+            "name": "Non-photo blue",
+            "code565": "0xA6FD",
+            "code888": "#A4DDED"
+        },
+        {
+            "name": "Ocean Blue",
+            "code565": "0x5216",
+            "code888": "#4F42B5"
+        },
+        {
+            "name": "Oxford blue",
+            "code565": "0x0109",
+            "code888": "#002147"
+        },
+        {
+            "name": "Pacific blue",
+            "code565": "0x1D58",
+            "code888": "#1CA9C9"
+        },
+        {
+            "name": "Periwinkle",
+            "code565": "0xCE5F",
+            "code888": "#CCCCFF"
+        },
+        {
+            "name": "Persian blue",
+            "code565": "0x19D7",
+            "code888": "#1C39BB"
+        },
+        {
+            "name": "Pewter Blue",
+            "code565": "0x8D56",
+            "code888": "#8BA8B7"
+        },
+        {
+            "name": "Phthalo blue",
+            "code565": "0x0091",
+            "code888": "#000F89"
+        },
+        {
+            "name": "Picotee Blue",
+            "code565": "0x3150",
+            "code888": "#2E2787"
+        },
+        {
+            "name": "Polynesian Blue",
+            "code565": "0x2272",
+            "code888": "#224C98"
+        },
+        {
+            "name": "Powder Blue",
+            "code565": "0xAEFC",
+            "code888": "#B0E0E6"
+        },
+        {
+            "name": "Prussian blue",
+            "code565": "0x018A",
+            "code888": "#003153"
+        },
+        {
+            "name": "Queen blue",
+            "code565": "0x4352",
+            "code888": "#436B95"
+        },
+        {
+            "name": "Resolution Blue",
+            "code565": "0x0130",
+            "code888": "#002387"
+        },
+        {
+            "name": "Royal blue (dark)",
+            "code565": "0x012C",
+            "code888": "#002366"
+        },
+        {
+            "name": "Royal blue (light)",
+            "code565": "0x435B",
+            "code888": "#4169E1"
+        },
+        {
+            "name": "Ruddy Blue",
+            "code565": "0x755B",
+            "code888": "#76ABDF"
+        },
+        {
+            "name": "Sapphire",
+            "code565": "0x092D",
+            "code888": "#082567"
+        },
+        {
+            "name": "Sapphire blue",
+            "code565": "0x0334",
+            "code888": "#0067A5"
+        },
+        {
+            "name": "Savoy blue",
+            "code565": "0x4B19",
+            "code888": "#4B61D1"
+        },
+        {
+            "name": "Shadow blue",
+            "code565": "0x7454",
+            "code888": "#778BA5"
+        },
+        {
+            "name": "Slate blue",
+            "code565": "0x6AD9",
+            "code888": "#6A5ACD"
+        },
+        {
+            "name": "Space Cadet",
+            "code565": "0x214A",
+            "code888": "#1E2952"
+        },
+        {
+            "name": "Spanish Blue",
+            "code565": "0x0397",
+            "code888": "#0070BB"
+        },
+        {
+            "name": "Spanish sky blue",
+            "code565": "0x07FF",
+            "code888": "#00FFFF"
+        },
+        {
+            "name": "St. Patricks blue",
+            "code565": "0x214F",
+            "code888": "#23297A"
+        },
+        {
+            "name": "Star command blue",
+            "code565": "0x03D6",
+            "code888": "#007BB8"
+        },
+        {
+            "name": "Teal",
+            "code565": "0x0410",
+            "code888": "#008080"
+        },
+        {
+            "name": "Teal blue",
+            "code565": "0x3BB1",
+            "code888": "#367588"
+        },
+        {
+            "name": "Trypan Blue",
+            "code565": "0x1836",
+            "code888": "#1C05B3"
+        },
+        {
+            "name": "Turquoise blue",
+            "code565": "0x07FD",
+            "code888": "#00FFEF"
+        },
+        {
+            "name": "UA blue",
+            "code565": "0x01B5",
+            "code888": "#0033AA"
+        },
+        {
+            "name": "Ultramarine",
+            "code565": "0x401F",
+            "code888": "#4000FF"
+        },
+        {
+            "name": "Ultramarine blue",
+            "code565": "0x433E",
+            "code888": "#4166F5"
+        },
+        {
+            "name": "University of Pennsylvania Blue",
+            "code565": "0x010B",
+            "code888": "#011F5B"
+        },
+        {
+            "name": "Uranian Blue",
+            "code565": "0xAEDE",
+            "code888": "#AFDBF5"
+        },
+        {
+            "name": "USAFA blue",
+            "code565": "0x0292",
+            "code888": "#004F98"
+        },
+        {
+            "name": "Violet-blue",
+            "code565": "0x3256",
+            "code888": "#324AB2"
+        },
+        {
+            "name": "Violet-blue (Crayola)",
+            "code565": "0x7378",
+            "code888": "#766EC8"
+        },
+        {
+            "name": "Vivid sky blue",
+            "code565": "0x065F",
+            "code888": "#00CCFF"
+        },
+        {
+            "name": "Wild blue yonder",
+            "code565": "0xA579",
+            "code888": "#A2ADD0"
+        },
+        {
+            "name": "Yale Blue",
+            "code565": "0x01AD",
+            "code888": "#00356B"
+        },
+        {
+            "name": "Yale 'Blue Site' Blue",
+            "code565": "0x01AD",
+            "code888": "#00356B"
+        },
+        {
+            "name": "YInMn Blue",
+            "code565": "0x3292",
+            "code888": "#2E5090"
+        },
+        {
+            "name": "Beaver",
+            "code565": "0x9C0E",
+            "code888": "#9F8170"
+        },
+        {
+            "name": "Beige",
+            "code565": "0xF7BB",
+            "code888": "#F5F5DC"
+        },
+        {
+            "name": "Bistre brown",
+            "code565": "0x9383",
+            "code888": "#967117"
+        },
+        {
+            "name": "Brown",
+            "code565": "0x9260",
+            "code888": "#964B00"
+        },
+        {
+            "name": "Brown sugar",
+            "code565": "0xAB69",
+            "code888": "#AF6E4D"
+        },
+        {
+            "name": "Buff",
+            "code565": "0xDD0D",
+            "code888": "#DAA06D"
+        },
+        {
+            "name": "Burnished brown",
+            "code565": "0xA3CE",
+            "code888": "#A17A74"
+        },
+        {
+            "name": "Burnt umber",
+            "code565": "0x89A4",
+            "code888": "#8A3324"
+        },
+        {
+            "name": "Chestnut",
+            "code565": "0x9226",
+            "code888": "#954535"
+        },
+        {
+            "name": "Chocolate",
+            "code565": "0x7A00",
+            "code888": "#7B3F00"
+        },
+        {
+            "name": "Cocoa Brown",
+            "code565": "0xD344",
+            "code888": "#D2691E"
+        },
+        {
+            "name": "Coyote brown",
+            "code565": "0x8307",
+            "code888": "#81613C"
+        },
+        {
+            "name": "Dark Brown",
+            "code565": "0x5A06",
+            "code888": "#5C4033"
+        },
+        {
+            "name": "Desert Sand",
+            "code565": "0xEE55",
+            "code888": "#EDC9AF"
+        },
+        {
+            "name": "Golden brown",
+            "code565": "0x9B23",
+            "code888": "#996515"
+        },
+        {
+            "name": "Khaki",
+            "code565": "0xC572",
+            "code888": "#C3B091"
+        },
+        {
+            "name": "Kobicha",
+            "code565": "0x6A24",
+            "code888": "#6B4423"
+        },
+        {
+            "name": "Peru",
+            "code565": "0xCC28",
+            "code888": "#CD853F"
+        },
+        {
+            "name": "Pullman Brown (UPS Brown)",
+            "code565": "0x6203",
+            "code888": "#644117"
+        },
+        {
+            "name": "Raw Umber",
+            "code565": "0x8328",
+            "code888": "#826644"
+        },
+        {
+            "name": "Red-Brown",
+            "code565": "0xA145",
+            "code888": "#A52A2A"
+        },
+        {
+            "name": "Rosy Brown",
+            "code565": "0xBC71",
+            "code888": "#BC8F8F"
+        },
+        {
+            "name": "Russet",
+            "code565": "0x8223",
+            "code888": "#80461B"
+        },
+        {
+            "name": "Saddle brown",
+            "code565": "0x8A22",
+            "code888": "#8B4513"
+        },
+        {
+            "name": "Sandy Brown",
+            "code565": "0xF52C",
+            "code888": "#F4A460"
+        },
+        {
+            "name": "Seal brown",
+            "code565": "0x5921",
+            "code888": "#59260B"
+        },
+        {
+            "name": "Smokey Topaz",
+            "code565": "0x8142",
+            "code888": "#832A0D"
+        },
+        {
+            "name": "Sweet Brown",
+            "code565": "0xA1C6",
+            "code888": "#A83731"
+        },
+        {
+            "name": "Tan",
+            "code565": "0xD591",
+            "code888": "#D2B48C"
+        },
+        {
+            "name": "Taupe",
+            "code565": "0x49E6",
+            "code888": "#483C32"
+        },
+        {
+            "name": "Tuscan brown",
+            "code565": "0x6A67",
+            "code888": "#6F4E37"
+        },
+        {
+            "name": "Van Dyke brown",
+            "code565": "0x6205",
+            "code888": "#664228"
+        },
+        {
+            "name": "Walnut Brown",
+            "code565": "0x5A89",
+            "code888": "#5C5248"
+        },
+        {
+            "name": "Wenge",
+            "code565": "0x62AA",
+            "code888": "#645452"
+        },
+        {
+            "name": "Wood Brown",
+            "code565": "0xBCCD",
+            "code888": "#C19A6B"
+        },
+        {
+            "name": "Azure (web)",
+            "code565": "0xEFFF",
+            "code888": "#F0FFFF"
+        },
+        {
+            "name": "Blue-green",
+            "code565": "0x14D7",
+            "code888": "#0D98BA"
+        },
+        {
+            "name": "Caribbean Current",
+            "code565": "0x036D",
+            "code888": "#006D6F"
+        },
+        {
+            "name": "Celeste",
+            "code565": "0xB7FF",
+            "code888": "#B2FFFF"
+        },
+        {
+            "name": "Charleston green",
+            "code565": "0x2165",
+            "code888": "#232B2B"
+        },
+        {
+            "name": "Cyan",
+            "code565": "0x07FF",
+            "code888": "#00FFFF"
+        },
+        {
+            "name": "Cyan (additive secondary)",
+            "code565": "0x07FF",
+            "code888": "#00FFFF"
+        },
+        {
+            "name": "Cyan (process)",
+            "code565": "0x05BD",
+            "code888": "#00B7EB"
+        },
+        {
+            "name": "Cyan (subtractive primary)",
+            "code565": "0x05BD",
+            "code888": "#00B7EB"
+        },
+        {
+            "name": "Dark cyan",
+            "code565": "0x0451",
+            "code888": "#008B8B"
+        },
+        {
+            "name": "Electric blue",
+            "code565": "0x7FDF",
+            "code888": "#7DF9FF"
+        },
+        {
+            "name": "Green-cyan",
+            "code565": "0x04CC",
+            "code888": "#009966"
+        },
+        {
+            "name": "Keppel",
+            "code565": "0x3D73",
+            "code888": "#3AB09E"
+        },
+        {
+            "name": "Light cyan",
+            "code565": "0xDFFF",
+            "code888": "#E0FFFF"
+        },
+        {
+            "name": "Light sea green",
+            "code565": "0x2595",
+            "code888": "#20B2AA"
+        },
+        {
+            "name": "Midnight green",
+            "code565": "0x026A",
+            "code888": "#004C54"
+        },
+        {
+            "name": "Moonstone",
+            "code565": "0x3D57",
+            "code888": "#3AA8C1"
+        },
+        {
+            "name": "Myrtle green",
+            "code565": "0x33CE",
+            "code888": "#317873"
+        },
+        {
+            "name": "Pine green",
+            "code565": "0x03CD",
+            "code888": "#01796F"
+        },
+        {
+            "name": "Robin egg blue",
+            "code565": "0x0659",
+            "code888": "#00CCCC"
+        },
+        {
+            "name": "Skobeloff",
+            "code565": "0x03CE",
+            "code888": "#007A74"
+        },
+        {
+            "name": "Sky blue (Crayola)",
+            "code565": "0x86DD",
+            "code888": "#80DAEB"
+        },
+        {
+            "name": "Teal",
+            "code565": "0x0410",
+            "code888": "#008080"
+        },
+        {
+            "name": "Tiffany Blue",
+            "code565": "0x86B9",
+            "code888": "#81D8D0"
+        },
+        {
+            "name": "Turquoise",
+            "code565": "0x46F9",
+            "code888": "#40E0D0"
+        },
+        {
+            "name": "Verdigris",
+            "code565": "0x4595",
+            "code888": "#43B3AE"
+        },
+        {
+            "name": "Zomp",
+            "code565": "0x3D31",
+            "code888": "#39A78D"
+        },
+        {
+            "name": "Ash gray",
+            "code565": "0xB5F6",
+            "code888": "#B2BEB5"
+        },
+        {
+            "name": "Battleship gray",
+            "code565": "0x8430",
+            "code888": "#848482"
+        },
+        {
+            "name": "Black",
+            "code565": "0x0000",
+            "code888": "#000000"
+        },
+        {
+            "name": "Blue-gray",
+            "code565": "0x64D9",
+            "code888": "#6699CC"
+        },
+        {
+            "name": "Cadet gray",
+            "code565": "0x9515",
+            "code888": "#91A3B0"
+        },
+        {
+            "name": "Charcoal",
+            "code565": "0x3A2A",
+            "code888": "#36454F"
+        },
+        {
+            "name": "Cinereous",
+            "code565": "0x940F",
+            "code888": "#98817B"
+        },
+        {
+            "name": "Cool gray",
+            "code565": "0x9497",
+            "code888": "#9090C0"
+        },
+        {
+            "name": "Dark blue-gray",
+            "code565": "0x6333",
+            "code888": "#666699"
+        },
+        {
+            "name": "Dark slate gray",
+            "code565": "0x328A",
+            "code888": "#2F4F4F"
+        },
+        {
+            "name": "Davy's gray",
+            "code565": "0x52AA",
+            "code888": "#555555"
+        },
+        {
+            "name": "Dim gray",
+            "code565": "0x6B4D",
+            "code888": "#696969"
+        },
+        {
+            "name": "Gainsboro",
+            "code565": "0xDEDB",
+            "code888": "#DCDCDC"
+        },
+        {
+            "name": "Glaucous",
+            "code565": "0x6416",
+            "code888": "#6082B6"
+        },
+        {
+            "name": "Granite gray",
+            "code565": "0x6B2D",
+            "code888": "#676767"
+        },
+        {
+            "name": "Gray-green",
+            "code565": "0x5B8D",
+            "code888": "#5E716A"
+        },
+        {
+            "name": "Gray (web)",
+            "code565": "0x8410",
+            "code888": "#808080"
+        },
+        {
+            "name": "Gray (X11 gray)",
+            "code565": "0xBDF7",
+            "code888": "#BEBEBE"
+        },
+        {
+            "name": "Gray/Grey",
+            "code565": "0x8410",
+            "code888": "#808080"
+        },
+        {
+            "name": "Gunmetal",
+            "code565": "0x29A7",
+            "code888": "#2A3439"
+        },
+        {
+            "name": "Heliotrope gray",
+            "code565": "0xACD5",
+            "code888": "#AA98A9"
+        },
+        {
+            "name": "Jet",
+            "code565": "0x31A6",
+            "code888": "#343434"
+        },
+        {
+            "name": "Lavender gray",
+            "code565": "0xC619",
+            "code888": "#C4C3D0"
+        },
+        {
+            "name": "Light gray",
+            "code565": "0xD69A",
+            "code888": "#D3D3D3"
+        },
+        {
+            "name": "Light slate gray",
+            "code565": "0x7453",
+            "code888": "#778899"
+        },
+        {
+            "name": "Marengo",
+            "code565": "0x4ACC",
+            "code888": "#4C5866"
+        },
+        {
+            "name": "Medium Gray",
+            "code565": "0xBDF7",
+            "code888": "#BEBEBE"
+        },
+        {
+            "name": "Nickel",
+            "code565": "0x73AE",
+            "code888": "#727472"
+        },
+        {
+            "name": "Platinum",
+            "code565": "0xE71B",
+            "code888": "#E5E4E2"
+        },
+        {
+            "name": "Puce",
+            "code565": "0xCC53",
+            "code888": "#CC8899"
+        },
+        {
+            "name": "Rocket metallic",
+            "code565": "0x8BF1",
+            "code888": "#8A7F8D"
+        },
+        {
+            "name": "Rose quartz",
+            "code565": "0xACD5",
+            "code888": "#AA98A9"
+        },
+        {
+            "name": "Silver",
+            "code565": "0xBDF7",
+            "code888": "#C0C0C0"
+        },
+        {
+            "name": "Slate gray",
+            "code565": "0x7412",
+            "code888": "#708090"
+        },
+        {
+            "name": "Spanish Gray",
+            "code565": "0x94D2",
+            "code888": "#989898"
+        },
+        {
+            "name": "Stone gray",
+            "code565": "0x9470",
+            "code888": "#928E85"
+        },
+        {
+            "name": "Taupe",
+            "code565": "0x49E6",
+            "code888": "#483C32"
+        },
+        {
+            "name": "Taupe gray",
+            "code565": "0x8C31",
+            "code888": "#8B8589"
+        },
+        {
+            "name": "White",
+            "code565": "0xFFFF",
+            "code888": "#FFFFFF"
+        },
+        {
+            "name": "Xanadu",
+            "code565": "0x742F",
+            "code888": "#738678"
+        },
+        {
+            "name": "Acid green",
+            "code565": "0xADE3",
+            "code888": "#B0BF1A"
+        },
+        {
+            "name": "Android green",
+            "code565": "0xA627",
+            "code888": "#A4C639"
+        },
+        {
+            "name": "Apple green",
+            "code565": "0x8DA0",
+            "code888": "#8DB600"
+        },
+        {
+            "name": "Artichoke green (Pantone)",
+            "code565": "0x4B68",
+            "code888": "#4B6F44"
+        },
+        {
+            "name": "Blue-green (color wheel)",
+            "code565": "0x0A68",
+            "code888": "#064E40"
+        },
+        {
+            "name": "Bottle green",
+            "code565": "0x0349",
+            "code888": "#006A4E"
+        },
+        {
+            "name": "Bright green",
+            "code565": "0x67E0",
+            "code888": "#66FF00"
+        },
+        {
+            "name": "British racing green",
+            "code565": "0x0204",
+            "code888": "#004225"
+        },
+        {
+            "name": "Brunswick green",
+            "code565": "0x1A68",
+            "code888": "#1B4D3E"
+        },
+        {
+            "name": "Bud green",
+            "code565": "0x7DAC",
+            "code888": "#7BB661"
+        },
+        {
+            "name": "Cadmium green",
+            "code565": "0x0347",
+            "code888": "#006B3C"
+        },
+        {
+            "name": "Caribbean green",
+            "code565": "0x0653",
+            "code888": "#00CC99"
+        },
+        {
+            "name": "Castleton green",
+            "code565": "0x02A8",
+            "code888": "#00563F"
+        },
+        {
+            "name": "Celadon",
+            "code565": "0xAF15",
+            "code888": "#ACE1AF"
+        },
+        {
+            "name": "Celadon green",
+            "code565": "0x342F",
+            "code888": "#2F847C"
+        },
+        {
+            "name": "Dark green",
+            "code565": "0x0184",
+            "code888": "#013220"
+        },
+        {
+            "name": "Dark green (X11)",
+            "code565": "0x0320",
+            "code888": "#006400"
+        },
+        {
+            "name": "Dark jungle green",
+            "code565": "0x1924",
+            "code888": "#1A2421"
+        },
+        {
+            "name": "Dark moss green",
+            "code565": "0x4AE4",
+            "code888": "#4A5D23"
+        },
+        {
+            "name": "Dark olive green",
+            "code565": "0x5346",
+            "code888": "#556B2F"
+        },
+        {
+            "name": "Dark pastel green",
+            "code565": "0x05E7",
+            "code888": "#03C03C"
+        },
+        {
+            "name": "Dark sea green",
+            "code565": "0x8DD1",
+            "code888": "#8FBC8F"
+        },
+        {
+            "name": "Dark spring green",
+            "code565": "0x1B88",
+            "code888": "#177245"
+        },
+        {
+            "name": "Dartmouth green",
+            "code565": "0x0387",
+            "code888": "#00703C"
+        },
+        {
+            "name": "Deep jungle green",
+            "code565": "0x0269",
+            "code888": "#004B49"
+        },
+        {
+            "name": "Electric green",
+            "code565": "0x07E0",
+            "code888": "#00FF00"
+        },
+        {
+            "name": "English green",
+            "code565": "0x1A68",
+            "code888": "#1B4D3E"
+        },
+        {
+            "name": "Erin",
+            "code565": "0x07E8",
+            "code888": "#00FF40"
+        },
+        {
+            "name": "Fern",
+            "code565": "0x75CF",
+            "code888": "#71BC78"
+        },
+        {
+            "name": "Fern green",
+            "code565": "0x53C8",
+            "code888": "#4F7942"
+        },
+        {
+            "name": "Forest green",
+            "code565": "0x2444",
+            "code888": "#228B22"
+        },
+        {
+            "name": "Forest green (Crayola)",
+            "code565": "0x652E",
+            "code888": "#5FA777"
+        },
+        {
+            "name": "Forest green (traditional)",
+            "code565": "0x0224",
+            "code888": "#014421"
+        },
+        {
+            "name": "Forest green (web)",
+            "code565": "0x2444",
+            "code888": "#228B22"
+        },
+        {
+            "name": "GO green",
+            "code565": "0x054C",
+            "code888": "#00AB66"
+        },
+        {
+            "name": "Green",
+            "code565": "0x07E0",
+            "code888": "#00FF00"
+        },
+        {
+            "name": "Green-blue (Crayola)",
+            "code565": "0x2C38",
+            "code888": "#2887C8"
+        },
+        {
+            "name": "Green (Crayola)",
+            "code565": "0x1D4F",
+            "code888": "#1CAC78"
+        },
+        {
+            "name": "Green-cyan",
+            "code565": "0x04CC",
+            "code888": "#009966"
+        },
+        {
+            "name": "Green (HTML/CSS color)",
+            "code565": "0x0400",
+            "code888": "#008000"
+        },
+        {
+            "name": "Green Lizard",
+            "code565": "0xA786",
+            "code888": "#A7F432"
+        },
+        {
+            "name": "Green (Munsell)",
+            "code565": "0x054E",
+            "code888": "#00A877"
+        },
+        {
+            "name": "Green (NCS)",
+            "code565": "0x04ED",
+            "code888": "#009F6B"
+        },
+        {
+            "name": "Green (Pantone)",
+            "code565": "0x0568",
+            "code888": "#00AD43"
+        },
+        {
+            "name": "Green (pigment)",
+            "code565": "0x052A",
+            "code888": "#00A550"
+        },
+        {
+            "name": "Green (RYB)",
+            "code565": "0x6566",
+            "code888": "#66B032"
+        },
+        {
+            "name": "Green Sheen",
+            "code565": "0x6D74",
+            "code888": "#6EAEA1"
+        },
+        {
+            "name": "Green (web)",
+            "code565": "0x0400",
+            "code888": "#008000"
+        },
+        {
+            "name": "Green (X11, color wheel)",
+            "code565": "0x07E0",
+            "code888": "#00FF00"
+        },
+        {
+            "name": "Green-yellow",
+            "code565": "0xAFE6",
+            "code888": "#ADFF2F"
+        },
+        {
+            "name": "Green-yellow (Crayola)",
+            "code565": "0xEF32",
+            "code888": "#F0E891"
+        },
+        {
+            "name": "Harlequin",
+            "code565": "0x47E0",
+            "code888": "#3FFF00"
+        },
+        {
+            "name": "Honeydew",
+            "code565": "0xEFFD",
+            "code888": "#F0FFF0"
+        },
+        {
+            "name": "Hookers green",
+            "code565": "0x4BCD",
+            "code888": "#49796B"
+        },
+        {
+            "name": "Hunter green",
+            "code565": "0x32E7",
+            "code888": "#355E3B"
+        },
+        {
+            "name": "India green",
+            "code565": "0x1441",
+            "code888": "#138808"
+        },
+        {
+            "name": "Islamic green",
+            "code565": "0x0480",
+            "code888": "#009000"
+        },
+        {
+            "name": "Jungle green",
+            "code565": "0x2D50",
+            "code888": "#29AB87"
+        },
+        {
+            "name": "Kelly green",
+            "code565": "0x4DC3",
+            "code888": "#4CBB17"
+        },
+        {
+            "name": "Kombu green",
+            "code565": "0x3206",
+            "code888": "#354230"
+        },
+        {
+            "name": "Laurel green",
+            "code565": "0xADD3",
+            "code888": "#A9BA9D"
+        },
+        {
+            "name": "Lawn green",
+            "code565": "0x7FC0",
+            "code888": "#7CFC00"
+        },
+        {
+            "name": "Light green",
+            "code565": "0x9772",
+            "code888": "#90EE90"
+        },
+        {
+            "name": "Lime Green",
+            "code565": "0x3666",
+            "code888": "#32CD32"
+        },
+        {
+            "name": "Lime (web) (X11 green)",
+            "code565": "0x07E0",
+            "code888": "#00FF00"
+        },
+        {
+            "name": "Lincoln green",
+            "code565": "0x1AC1",
+            "code888": "#195905"
+        },
+        {
+            "name": "Mantis",
+            "code565": "0x760C",
+            "code888": "#74C365"
+        },
+        {
+            "name": "Maximum blue green",
+            "code565": "0x35F7",
+            "code888": "#30BFBF"
+        },
+        {
+            "name": "Maximum green",
+            "code565": "0x5C66",
+            "code888": "#5E8C31"
+        },
+        {
+            "name": "Maximum green yellow",
+            "code565": "0xD72A",
+            "code888": "#D9E650"
+        },
+        {
+            "name": "May green",
+            "code565": "0x4C88",
+            "code888": "#4C9141"
+        },
+        {
+            "name": "Medium sea green",
+            "code565": "0x3D8E",
+            "code888": "#3CB371"
+        },
+        {
+            "name": "Medium spring green",
+            "code565": "0x07D3",
+            "code888": "#00FA9A"
+        },
+        {
+            "name": "Middle blue green",
+            "code565": "0x8ED9",
+            "code888": "#8DD9CC"
+        },
+        {
+            "name": "Middle green",
+            "code565": "0x4C6B",
+            "code888": "#4D8C57"
+        },
+        {
+            "name": "Middle green yellow",
+            "code565": "0xADEC",
+            "code888": "#ACBF60"
+        },
+        {
+            "name": "Midnight green (eagle green)",
+            "code565": "0x024A",
+            "code888": "#004953"
+        },
+        {
+            "name": "Mint green",
+            "code565": "0x97D2",
+            "code888": "#98FB98"
+        },
+        {
+            "name": "Moss green",
+            "code565": "0x8CCB",
+            "code888": "#8A9A5B"
+        },
+        {
+            "name": "MSU green",
+            "code565": "0x1A27",
+            "code888": "#18453B"
+        },
+        {
+            "name": "NDHU green",
+            "code565": "0x12E6",
+            "code888": "#0D5C33"
+        },
+        {
+            "name": "Neon green",
+            "code565": "0x3FE2",
+            "code888": "#39FF14"
+        },
+        {
+            "name": "Ocean green",
+            "code565": "0x4DF2",
+            "code888": "#48BF91"
+        },
+        {
+            "name": "Olive green",
+            "code565": "0xB58B",
+            "code888": "#B5B35C"
+        },
+        {
+            "name": "Pakistan green",
+            "code565": "0x0320",
+            "code888": "#006600"
+        },
+        {
+            "name": "Pale green",
+            "code565": "0x97D2",
+            "code888": "#98FB98"
+        },
+        {
+            "name": "Paolo Veronese green",
+            "code565": "0x04CF",
+            "code888": "#009B7D"
+        },
+        {
+            "name": "Paris Green",
+            "code565": "0x562F",
+            "code888": "#50C878"
+        },
+        {
+            "name": "Persian green",
+            "code565": "0x0532",
+            "code888": "#00A693"
+        },
+        {
+            "name": "Phthalo green",
+            "code565": "0x11A4",
+            "code888": "#123524"
+        },
+        {
+            "name": "Rifle green",
+            "code565": "0x4267",
+            "code888": "#444C38"
+        },
+        {
+            "name": "Russian green",
+            "code565": "0x6C8D",
+            "code888": "#679267"
+        },
+        {
+            "name": "Sacramento State green",
+            "code565": "0x01C5",
+            "code888": "#043927"
+        },
+        {
+            "name": "Sap green",
+            "code565": "0x53E5",
+            "code888": "#507D2A"
+        },
+        {
+            "name": "Screamin Green",
+            "code565": "0x67EC",
+            "code888": "#66FF66"
+        },
+        {
+            "name": "Sea green",
+            "code565": "0x344B",
+            "code888": "#2E8B57"
+        },
+        {
+            "name": "Sea green (Crayola)",
+            "code565": "0x07F9",
+            "code888": "#00FFCD"
+        },
+        {
+            "name": "SGBUS green",
+            "code565": "0x56E6",
+            "code888": "#55DD33"
+        },
+        {
+            "name": "Shamrock green",
+            "code565": "0x04EC",
+            "code888": "#009E60"
+        },
+        {
+            "name": "Sheen green",
+            "code565": "0x8E80",
+            "code888": "#8FD400"
+        },
+        {
+            "name": "Slimy green",
+            "code565": "0x2CA3",
+            "code888": "#299617"
+        },
+        {
+            "name": "Spanish green",
+            "code565": "0x048A",
+            "code888": "#009150"
+        },
+        {
+            "name": "Spring green",
+            "code565": "0x07EF",
+            "code888": "#00FF7F"
+        },
+        {
+            "name": "Spring green (Crayola)",
+            "code565": "0xEF57",
+            "code888": "#ECEBBD"
+        },
+        {
+            "name": "Tea green",
+            "code565": "0xCF77",
+            "code888": "#D0F0C0"
+        },
+        {
+            "name": "Turquoise green",
+            "code565": "0x9EB6",
+            "code888": "#A0D6B4"
+        },
+        {
+            "name": "Turtle green",
+            "code565": "0x8CCB",
+            "code888": "#8A9A5B"
+        },
+        {
+            "name": "UP Forest green",
+            "code565": "0x0224",
+            "code888": "#014421"
+        },
+        {
+            "name": "Viridian green",
+            "code565": "0x04B2",
+            "code888": "#009698"
+        },
+        {
+            "name": "Wintergreen Dream",
+            "code565": "0x544F",
+            "code888": "#56887D"
+        },
+        {
+            "name": "Yellow-green",
+            "code565": "0x9E66",
+            "code888": "#9ACD32"
+        },
+        {
+            "name": "Yellow-green (Color Wheel)",
+            "code565": "0x3583",
+            "code888": "#30B21A"
+        },
+        {
+            "name": "Yellow-green (Crayola)",
+            "code565": "0xC710",
+            "code888": "#C5E384"
+        },
+        {
+            "name": "African Violet",
+            "code565": "0xB437",
+            "code888": "#B284BE"
+        },
+        {
+            "name": "Amaranth purple",
+            "code565": "0xA94A",
+            "code888": "#AB274F"
+        },
+        {
+            "name": "Chinese Violet",
+            "code565": "0x8311",
+            "code888": "#856088"
+        },
+        {
+            "name": "Dark Magenta",
+            "code565": "0x8811",
+            "code888": "#8B008B"
+        },
+        {
+            "name": "English Violet",
+            "code565": "0x51EB",
+            "code888": "#563C5C"
+        },
+        {
+            "name": "Hot Magenta",
+            "code565": "0xF8F9",
+            "code888": "#FF1DCE"
+        },
+        {
+            "name": "Magenta",
+            "code565": "0xF81F",
+            "code888": "#FF00FF"
+        },
+        {
+            "name": "Magenta (additive secondary)",
+            "code565": "0xF81F",
+            "code888": "#FF00FF"
+        },
+        {
+            "name": "Magenta (Crayola)",
+            "code565": "0xF2B4",
+            "code888": "#F653A6"
+        },
+        {
+            "name": "Magenta dye",
+            "code565": "0xC90F",
+            "code888": "#CA1F7B"
+        },
+        {
+            "name": "Magenta Haze",
+            "code565": "0x9A2E",
+            "code888": "#9F4576"
+        },
+        {
+            "name": "Magenta (Pantone)",
+            "code565": "0xCA0F",
+            "code888": "#D0417E"
+        },
+        {
+            "name": "Magenta (process)",
+            "code565": "0xF812",
+            "code888": "#FF0090"
+        },
+        {
+            "name": "Magenta (subtractive primary)",
+            "code565": "0xF812",
+            "code888": "#FF0090"
+        },
+        {
+            "name": "Orchid",
+            "code565": "0xDB9A",
+            "code888": "#DA70D6"
+        },
+        {
+            "name": "Plum (Crayola)",
+            "code565": "0x818F",
+            "code888": "#843179"
+        },
+        {
+            "name": "Purple Pizzazz",
+            "code565": "0xFA7B",
+            "code888": "#FE4EDA"
+        },
+        {
+            "name": "Quinacridone Magenta",
+            "code565": "0x988A",
+            "code888": "#9A114F"
+        },
+        {
+            "name": "Razzle dazzle rose",
+            "code565": "0xF9B9",
+            "code888": "#FF33CC"
+        },
+        {
+            "name": "Rose quartz",
+            "code565": "0xACD5",
+            "code888": "#AA98A9"
+        },
+        {
+            "name": "Shocking Pink",
+            "code565": "0xF897",
+            "code888": "#FC0FC0"
+        },
+        {
+            "name": "Shocking Pink (Crayola), formerly known as Ultra Pink",
+            "code565": "0xFB7F",
+            "code888": "#FF6FFF"
+        },
+        {
+            "name": "Sky Magenta",
+            "code565": "0xCB95",
+            "code888": "#CF71AF"
+        },
+        {
+            "name": "Steel Pink",
+            "code565": "0xC9B9",
+            "code888": "#CC33CC"
+        },
+        {
+            "name": "Telemagenta",
+            "code565": "0xC9AE",
+            "code888": "#CF3476"
+        },
+        {
+            "name": "Violet (JTC)",
+            "code565": "0x598A",
+            "code888": "#5B3256"
+        },
+        {
+            "name": "Violet (web color)",
+            "code565": "0xEC1D",
+            "code888": "#EE82EE"
+        },
+        {
+            "name": "Alloy orange",
+            "code565": "0xC302",
+            "code888": "#C46210"
+        },
+        {
+            "name": "Apricot",
+            "code565": "0xFE76",
+            "code888": "#FBCEB1"
+        },
+        {
+            "name": "Atomic tangerine",
+            "code565": "0xFCCC",
+            "code888": "#FF9966"
+        },
+        {
+            "name": "Brown",
+            "code565": "0x9260",
+            "code888": "#964B00"
+        },
+        {
+            "name": "Burnt orange",
+            "code565": "0xBAA0",
+            "code888": "#BF5700"
+        },
+        {
+            "name": "Butterscotch",
+            "code565": "0xDCA8",
+            "code888": "#E09540"
+        },
+        {
+            "name": "Cadmium orange",
+            "code565": "0xEC25",
+            "code888": "#ED872D"
+        },
+        {
+            "name": "Carrot orange",
+            "code565": "0xEC84",
+            "code888": "#ED9121"
+        },
+        {
+            "name": "Coral",
+            "code565": "0xFBEA",
+            "code888": "#FF7F50"
+        },
+        {
+            "name": "Dark orange",
+            "code565": "0xFC60",
+            "code888": "#FF8C00"
+        },
+        {
+            "name": "Giants orange",
+            "code565": "0xFAC4",
+            "code888": "#FE5A1D"
+        },
+        {
+            "name": "Goldenrod",
+            "code565": "0xDD24",
+            "code888": "#DAA520"
+        },
+        {
+            "name": "Hunyadi yellow",
+            "code565": "0xE548",
+            "code888": "#E8AC41"
+        },
+        {
+            "name": "International Orange",
+            "code565": "0xFA80",
+            "code888": "#FF4F00"
+        },
+        {
+            "name": "International orange (aerospace)",
+            "code565": "0xFA80",
+            "code888": "#FF4F00"
+        },
+        {
+            "name": "International orange (engineering)",
+            "code565": "0xB8A1",
+            "code888": "#BA160C"
+        },
+        {
+            "name": "International orange (Golden Gate Bridge)",
+            "code565": "0xB9A5",
+            "code888": "#C0362C"
+        },
+        {
+            "name": "Khaki",
+            "code565": "0xC572",
+            "code888": "#C3B091"
+        },
+        {
+            "name": "Light orange",
+            "code565": "0xFEB6",
+            "code888": "#FED8B1"
+        },
+        {
+            "name": "Orange",
+            "code565": "0xFBE0",
+            "code888": "#FF7F00"
+        },
+        {
+            "name": "Orange (color wheel)",
+            "code565": "0xFC00",
+            "code888": "#FF8000"
+        },
+        {
+            "name": "Orange (Crayola)",
+            "code565": "0xFBA7",
+            "code888": "#FF7538"
+        },
+        {
+            "name": "Orange (G&S)",
+            "code565": "0xE300",
+            "code888": "#E86100"
+        },
+        {
+            "name": "Orange (Pantone)",
+            "code565": "0xFAC0",
+            "code888": "#FF5800"
+        },
+        {
+            "name": "Orange peel",
+            "code565": "0xFCE0",
+            "code888": "#FF9F00"
+        },
+        {
+            "name": "Orange-red",
+            "code565": "0xFB44",
+            "code888": "#FF681F"
+        },
+        {
+            "name": "Orange-red (Crayola)",
+            "code565": "0xFAA9",
+            "code888": "#FF5349"
+        },
+        {
+            "name": "Orange soda",
+            "code565": "0xF2C7",
+            "code888": "#FA5B3D"
+        },
+        {
+            "name": "Orange (web)",
+            "code565": "0xFD20",
+            "code888": "#FFA500"
+        },
+        {
+            "name": "Orange (web color)",
+            "code565": "0xFD20",
+            "code888": "#FFA500"
+        },
+        {
+            "name": "Orange-yellow",
+            "code565": "0xF5E4",
+            "code888": "#F5BD1F"
+        },
+        {
+            "name": "Orange-yellow (Crayola)",
+            "code565": "0xF6AD",
+            "code888": "#F8D568"
+        },
+        {
+            "name": "Outrageous Orange",
+            "code565": "0xFB69",
+            "code888": "#FF6E4A"
+        },
+        {
+            "name": "Papaya Whip",
+            "code565": "0xFF7A",
+            "code888": "#FFEFD5"
+        },
+        {
+            "name": "Peach",
+            "code565": "0xFF36",
+            "code888": "#FFE5B4"
+        },
+        {
+            "name": "Persian orange",
+            "code565": "0xD48B",
+            "code888": "#D99058"
+        },
+        {
+            "name": "Persimmon",
+            "code565": "0xEAC0",
+            "code888": "#EC5800"
+        },
+        {
+            "name": "Portland Orange",
+            "code565": "0xFAC7",
+            "code888": "#FF5A36"
+        },
+        {
+            "name": "Princeton orange",
+            "code565": "0xEBE5",
+            "code888": "#EE7F2D"
+        },
+        {
+            "name": "Pumpkin",
+            "code565": "0xFBA3",
+            "code888": "#FF7518"
+        },
+        {
+            "name": "Red-orange",
+            "code565": "0xFAA9",
+            "code888": "#FF5349"
+        },
+        {
+            "name": "Red-orange (Color wheel)",
+            "code565": "0xFA20",
+            "code888": "#FF4500"
+        },
+        {
+            "name": "Red-orange (Crayola)",
+            "code565": "0xFB44",
+            "code888": "#FF681F"
+        },
+        {
+            "name": "Safety Orange",
+            "code565": "0xFBC0",
+            "code888": "#FF7900"
+        },
+        {
+            "name": "Safety orange (blaze orange)",
+            "code565": "0xFB20",
+            "code888": "#FF6700"
+        },
+        {
+            "name": "Saffron",
+            "code565": "0xF606",
+            "code888": "#F4C430"
+        },
+        {
+            "name": "Spanish orange",
+            "code565": "0xE300",
+            "code888": "#E86100"
+        },
+        {
+            "name": "Tangerine",
+            "code565": "0xEC20",
+            "code888": "#F28500"
+        },
+        {
+            "name": "Tart Orange",
+            "code565": "0xFA69",
+            "code888": "#FB4D46"
+        },
+        {
+            "name": "Tiger’s Eye",
+            "code565": "0xB343",
+            "code888": "#B56917"
+        },
+        {
+            "name": "UT orange",
+            "code565": "0xFC00",
+            "code888": "#FF8200"
+        },
+        {
+            "name": "Xanthous",
+            "code565": "0xED86",
+            "code888": "#F1B42F"
+        },
+        {
+            "name": "Yellow Orange",
+            "code565": "0xFD68",
+            "code888": "#FFAE42"
+        },
+        {
+            "name": "Yellow Orange (Color Wheel)",
+            "code565": "0xFCA1",
+            "code888": "#FF9505"
+        },
+        {
+            "name": "Amaranth Pink",
+            "code565": "0xECF7",
+            "code888": "#F19CBB"
+        },
+        {
+            "name": "Baby Pink",
+            "code565": "0xF618",
+            "code888": "#F4C2C2"
+        },
+        {
+            "name": "Baker-Miller Pink",
+            "code565": "0xFC95",
+            "code888": "#FF91AF"
+        },
+        {
+            "name": "Barbie pink",
+            "code565": "0xD8D0",
+            "code888": "#DA1884"
+        },
+        {
+            "name": "Brink Pink",
+            "code565": "0xFB0F",
+            "code888": "#FB607F"
+        },
+        {
+            "name": "Bubblegum Pink",
+            "code565": "0xF412",
+            "code888": "#F58092"
+        },
+        {
+            "name": "Cameo Pink",
+            "code565": "0xEDD9",
+            "code888": "#EFBBCC"
+        },
+        {
+            "name": "Candy pink",
+            "code565": "0xE38F",
+            "code888": "#E4717A"
+        },
+        {
+            "name": "Carnation Pink",
+            "code565": "0xFD38",
+            "code888": "#FFA6C9"
+        },
+        {
+            "name": "Champagne Pink",
+            "code565": "0xEEF9",
+            "code888": "#F1DDCF"
+        },
+        {
+            "name": "Charm Pink",
+            "code565": "0xE475",
+            "code888": "#E68FAC"
+        },
+        {
+            "name": "Cherry Blossom Pink",
+            "code565": "0xFDB8",
+            "code888": "#FFB7C5"
+        },
+        {
+            "name": "Chilean Pink",
+            "code565": "0xE617",
+            "code888": "#E8C3BA"
+        },
+        {
+            "name": "China Pink",
+            "code565": "0xDB74",
+            "code888": "#DE6FA1"
+        },
+        {
+            "name": "Congo Pink",
+            "code565": "0xF40F",
+            "code888": "#F88379"
+        },
+        {
+            "name": "Coral Pink",
+            "code565": "0xF40F",
+            "code888": "#F88379"
+        },
+        {
+            "name": "Cotton Candy",
+            "code565": "0xFDDA",
+            "code888": "#FFBCD9"
+        },
+        {
+            "name": "Deep Pink",
+            "code565": "0xF8B2",
+            "code888": "#FF1493"
+        },
+        {
+            "name": "Fairy Tale",
+            "code565": "0xEE19",
+            "code888": "#F2C1D1"
+        },
+        {
+            "name": "Fandango Pink",
+            "code565": "0xDA90",
+            "code888": "#DE5285"
+        },
+        {
+            "name": "French Pink",
+            "code565": "0xFB73",
+            "code888": "#FD6C9E"
+        },
+        {
+            "name": "Hot Pink",
+            "code565": "0xFB56",
+            "code888": "#FF69B4"
+        },
+        {
+            "name": "Lavender pink",
+            "code565": "0xFD7A",
+            "code888": "#FBAED2"
+        },
+        {
+            "name": "Light Deep Pink",
+            "code565": "0xFAF9",
+            "code888": "#FF5CCD"
+        },
+        {
+            "name": "Light Hot Pink",
+            "code565": "0xFD9B",
+            "code888": "#FFB3DE"
+        },
+        {
+            "name": "Light Pink",
+            "code565": "0xFDB7",
+            "code888": "#FFB6C1"
+        },
+        {
+            "name": "Mexican pink",
+            "code565": "0xE00F",
+            "code888": "#E4007C"
+        },
+        {
+            "name": "Mimi Pink",
+            "code565": "0xFEDC",
+            "code888": "#FFDAE9"
+        },
+        {
+            "name": "Mountbatten pink",
+            "code565": "0x9BD1",
+            "code888": "#997A8D"
+        },
+        {
+            "name": "Nadeshiko pink",
+            "code565": "0xF578",
+            "code888": "#F6ADC6"
+        },
+        {
+            "name": "New York Pink",
+            "code565": "0xD40F",
+            "code888": "#D7837F"
+        },
+        {
+            "name": "Orchid Pink",
+            "code565": "0xEDF9",
+            "code888": "#F2BDCD"
+        },
+        {
+            "name": "Pale Dogwood",
+            "code565": "0xEE78",
+            "code888": "#EDCDC2"
+        },
+        {
+            "name": "Pale Pink",
+            "code565": "0xF659",
+            "code888": "#F9CCCA"
+        },
+        {
+            "name": "Paradise Pink",
+            "code565": "0xE1EC",
+            "code888": "#E63E62"
+        },
+        {
+            "name": "Pastel Pink",
+            "code565": "0xDD34",
+            "code888": "#DEA5A4"
+        },
+        {
+            "name": "Persian Pink",
+            "code565": "0xF3F7",
+            "code888": "#F77FBE"
+        },
+        {
+            "name": "Piggy Pink",
+            "code565": "0xFEFC",
+            "code888": "#FDDDE6"
+        },
+        {
+            "name": "Pink",
+            "code565": "0xFDF9",
+            "code888": "#FFC0CB"
+        },
+        {
+            "name": "Pink flamingo",
+            "code565": "0xFBBF",
+            "code888": "#FC74FD"
+        },
+        {
+            "name": "Pink (G&S)",
+            "code565": "0xF5F7",
+            "code888": "#F7BFBE"
+        },
+        {
+            "name": "Pink Lace",
+            "code565": "0xFEFE",
+            "code888": "#FFDDF4"
+        },
+        {
+            "name": "Pink Lavender",
+            "code565": "0xDD99",
+            "code888": "#DBB2D1"
+        },
+        {
+            "name": "Pink (Pantone)",
+            "code565": "0xD252",
+            "code888": "#D74894"
+        },
+        {
+            "name": "Pink Sherbet",
+            "code565": "0xF474",
+            "code888": "#F78FA7"
+        },
+        {
+            "name": "Queen Pink",
+            "code565": "0xE65A",
+            "code888": "#E8CCD7"
+        },
+        {
+            "name": "Rose pink",
+            "code565": "0xFB39",
+            "code888": "#FF66CC"
+        },
+        {
+            "name": "Rose Pompadour",
+            "code565": "0xEBD3",
+            "code888": "#ED7A9B"
+        },
+        {
+            "name": "Schauss pink",
+            "code565": "0xFC95",
+            "code888": "#FF91AF"
+        },
+        {
+            "name": "Shocking Pink",
+            "code565": "0xF897",
+            "code888": "#FC0FC0"
+        },
+        {
+            "name": "Shocking pink (Crayola)",
+            "code565": "0xFB7F",
+            "code888": "#FF6FFF"
+        },
+        {
+            "name": "Silver Pink",
+            "code565": "0xC575",
+            "code888": "#C4AEAD"
+        },
+        {
+            "name": "Solid Pink",
+            "code565": "0x89C8",
+            "code888": "#893843"
+        },
+        {
+            "name": "Spanish pink",
+            "code565": "0xF5F7",
+            "code888": "#F7BFBE"
+        },
+        {
+            "name": "Steel Pink",
+            "code565": "0xC9B9",
+            "code888": "#CC33CC"
+        },
+        {
+            "name": "Super Pink",
+            "code565": "0xCB55",
+            "code888": "#CF6BA9"
+        },
+        {
+            "name": "Tango Pink",
+            "code565": "0xE38F",
+            "code888": "#E4717A"
+        },
+        {
+            "name": "Thulian pink",
+            "code565": "0xDB74",
+            "code888": "#DE6FA1"
+        },
+        {
+            "name": "Tickle Me Pink",
+            "code565": "0xFC55",
+            "code888": "#FC89AC"
+        },
+        {
+            "name": "Ultra Pink",
+            "code565": "0xFB7F",
+            "code888": "#FF6FFF"
+        },
+        {
+            "name": "Byzantium",
+            "code565": "0x714C",
+            "code888": "#702963"
+        },
+        {
+            "name": "Dark Purple",
+            "code565": "0x30C6",
+            "code888": "#301934"
+        },
+        {
+            "name": "Electric Purple",
+            "code565": "0xB81F",
+            "code888": "#BF00FF"
+        },
+        {
+            "name": "Eminence",
+            "code565": "0x6990",
+            "code888": "#6C3082"
+        },
+        {
+            "name": "Fuchsia purple",
+            "code565": "0xC9CF",
+            "code888": "#CC397B"
+        },
+        {
+            "name": "Han purple",
+            "code565": "0x50DE",
+            "code888": "#5218FA"
+        },
+        {
+            "name": "Heliotrope",
+            "code565": "0xDB9F",
+            "code888": "#DF73FF"
+        },
+        {
+            "name": "KSU Purple",
+            "code565": "0x5151",
+            "code888": "#512888"
+        },
+        {
+            "name": "Liseran Purple",
+            "code565": "0xDB74",
+            "code888": "#DE6FA1"
+        },
+        {
+            "name": "Mardi Gras",
+            "code565": "0x8810",
+            "code888": "#880085"
+        },
+        {
+            "name": "Mauve (Mallow)",
+            "code565": "0xDD7F",
+            "code888": "#E0B0FF"
+        },
+        {
+            "name": "Maximum blue purple",
+            "code565": "0xAD5C",
+            "code888": "#ACACE6"
+        },
+        {
+            "name": "Maximum purple",
+            "code565": "0x71B0",
+            "code888": "#733380"
+        },
+        {
+            "name": "Maximum red purple",
+            "code565": "0xA1CF",
+            "code888": "#A63A79"
+        },
+        {
+            "name": "Medium Purple",
+            "code565": "0x939B",
+            "code888": "#9370DB"
+        },
+        {
+            "name": "Middle blue purple",
+            "code565": "0x8B97",
+            "code888": "#8B72BE"
+        },
+        {
+            "name": "Middle purple",
+            "code565": "0xD416",
+            "code888": "#D982B5"
+        },
+        {
+            "name": "Middle red purple",
+            "code565": "0xA2AA",
+            "code888": "#A55353"
+        },
+        {
+            "name": "Mulberry",
+            "code565": "0xC271",
+            "code888": "#C54B8C"
+        },
+        {
+            "name": "Northwestern Purple",
+            "code565": "0x4950",
+            "code888": "#4E2A84"
+        },
+        {
+            "name": "Orchid",
+            "code565": "0xDB9A",
+            "code888": "#DA70D6"
+        },
+        {
+            "name": "Palatinate",
+            "code565": "0x712D",
+            "code888": "#72246C"
+        },
+        {
+            "name": "Palatinate purple",
+            "code565": "0x694C",
+            "code888": "#682860"
+        },
+        {
+            "name": "Pale Purple",
+            "code565": "0xF73E",
+            "code888": "#FAE6FA"
+        },
+        {
+            "name": "Pale purple (Pantone)",
+            "code565": "0xF73E",
+            "code888": "#FAE6FA"
+        },
+        {
+            "name": "Pansy Purple",
+            "code565": "0x78C9",
+            "code888": "#78184A"
+        },
+        {
+            "name": "Pearly Purple",
+            "code565": "0xB354",
+            "code888": "#B768A2"
+        },
+        {
+            "name": "Phlox",
+            "code565": "0xD81F",
+            "code888": "#DF00FF"
+        },
+        {
+            "name": "Plump Purple",
+            "code565": "0x5A36",
+            "code888": "#5946B2"
+        },
+        {
+            "name": "Pomp and Power",
+            "code565": "0x8311",
+            "code888": "#86608E"
+        },
+        {
+            "name": "Psychedelic purple",
+            "code565": "0xD81F",
+            "code888": "#DF00FF"
+        },
+        {
+            "name": "Purple",
+            "code565": "0x8010",
+            "code888": "#800080"
+        },
+        {
+            "name": "Purple (HTML/CSS color)",
+            "code565": "0x8010",
+            "code888": "#800080"
+        },
+        {
+            "name": "Purple mountain majesty",
+            "code565": "0x93D6",
+            "code888": "#9678B6"
+        },
+        {
+            "name": "Purple (Munsell)",
+            "code565": "0x9818",
+            "code888": "#9F00C5"
+        },
+        {
+            "name": "Purple navy",
+            "code565": "0x4A90",
+            "code888": "#4E5180"
+        },
+        {
+            "name": "Purple Pizzazz",
+            "code565": "0xFA7B",
+            "code888": "#FE4EDA"
+        },
+        {
+            "name": "Purple Plum",
+            "code565": "0x9A96",
+            "code888": "#9C51B6"
+        },
+        {
+            "name": "Purple (web)",
+            "code565": "0x8010",
+            "code888": "#800080"
+        },
+        {
+            "name": "Purple (X11)",
+            "code565": "0x991D",
+            "code888": "#A020F0"
+        },
+        {
+            "name": "Purple (X11 color)",
+            "code565": "0x991D",
+            "code888": "#A020F0"
+        },
+        {
+            "name": "Purpureus",
+            "code565": "0x9A75",
+            "code888": "#9A4EAE"
+        },
+        {
+            "name": "Rebecca purple",
+            "code565": "0x61B3",
+            "code888": "#663399"
+        },
+        {
+            "name": "Red-purple",
+            "code565": "0xE00F",
+            "code888": "#E40078"
+        },
+        {
+            "name": "Red-Violet",
+            "code565": "0xC0B0",
+            "code888": "#C71585"
+        },
+        {
+            "name": "Royal Purple",
+            "code565": "0x7A95",
+            "code888": "#7851A9"
+        },
+        {
+            "name": "Thistle",
+            "code565": "0xD5FA",
+            "code888": "#D8BFD8"
+        },
+        {
+            "name": "Tyrian Purple",
+            "code565": "0x6007",
+            "code888": "#66023C"
+        },
+        {
+            "name": "Amaranth red",
+            "code565": "0xD105",
+            "code888": "#D3212D"
+        },
+        {
+            "name": "Barn Red",
+            "code565": "0x7840",
+            "code888": "#7C0902"
+        },
+        {
+            "name": "Bittersweet",
+            "code565": "0xFB6B",
+            "code888": "#FE6F5E"
+        },
+        {
+            "name": "Bittersweet shimmer",
+            "code565": "0xBA8A",
+            "code888": "#BF4F51"
+        },
+        {
+            "name": "Blood red",
+            "code565": "0x6000",
+            "code888": "#660000"
+        },
+        {
+            "name": "Brick red",
+            "code565": "0xCA0A",
+            "code888": "#CB4154"
+        },
+        {
+            "name": "Brink Pink",
+            "code565": "0xFB0F",
+            "code888": "#FB607F"
+        },
+        {
+            "name": "Cadmium red",
+            "code565": "0xE004",
+            "code888": "#E30022"
+        },
+        {
+            "name": "Candy apple red",
+            "code565": "0xF840",
+            "code888": "#FF0800"
+        },
+        {
+            "name": "Cantaloupe Melon",
+            "code565": "0xFDD6",
+            "code888": "#FDBCB4"
+        },
+        {
+            "name": "Cardinal",
+            "code565": "0xC0E7",
+            "code888": "#C51E3A"
+        },
+        {
+            "name": "Carmine",
+            "code565": "0x9003",
+            "code888": "#960018"
+        },
+        {
+            "name": "CG red",
+            "code565": "0xD9E6",
+            "code888": "#E03C31"
+        },
+        {
+            "name": "Chili red",
+            "code565": "0xD9E5",
+            "code888": "#E23D28"
+        },
+        {
+            "name": "Chinese red",
+            "code565": "0xA9C4",
+            "code888": "#AA381E"
+        },
+        {
+            "name": "Chocolate Cosmos",
+            "code565": "0x5883",
+            "code888": "#58111A"
+        },
+        {
+            "name": "Cinnabar",
+            "code565": "0xE266",
+            "code888": "#E44D2E"
+        },
+        {
+            "name": "Copper red",
+            "code565": "0xCB6A",
+            "code888": "#CB6D51"
+        },
+        {
+            "name": "Coral Pink",
+            "code565": "0xF40F",
+            "code888": "#F88379"
+        },
+        {
+            "name": "Cordovan",
+            "code565": "0x8A08",
+            "code888": "#893F45"
+        },
+        {
+            "name": "Cornell red",
+            "code565": "0xB0E3",
+            "code888": "#B31B1B"
+        },
+        {
+            "name": "Crimson",
+            "code565": "0xD8A7",
+            "code888": "#DC143C"
+        },
+        {
+            "name": "Cultured",
+            "code565": "0xF7BE",
+            "code888": "#F5F5F5"
+        },
+        {
+            "name": "Dark red",
+            "code565": "0x8800",
+            "code888": "#8B0000"
+        },
+        {
+            "name": "English red",
+            "code565": "0xAA6A",
+            "code888": "#AB4B52"
+        },
+        {
+            "name": "Falu red",
+            "code565": "0x80C3",
+            "code888": "#801818"
+        },
+        {
+            "name": "Fire brick",
+            "code565": "0xB104",
+            "code888": "#B22222"
+        },
+        {
+            "name": "Fire engine red",
+            "code565": "0xC905",
+            "code888": "#CE2029"
+        },
+        {
+            "name": "Garnet",
+            "code565": "0x71A6",
+            "code888": "#733635"
+        },
+        {
+            "name": "Imperial Red",
+            "code565": "0xE947",
+            "code888": "#ED2939"
+        },
+        {
+            "name": "Indian Red",
+            "code565": "0xCAEB",
+            "code888": "#CD5C5C"
+        },
+        {
+            "name": "Jasper",
+            "code565": "0xCAA8",
+            "code888": "#D05340"
+        },
+        {
+            "name": "Light Coral",
+            "code565": "0xEC10",
+            "code888": "#F08080"
+        },
+        {
+            "name": "Light red",
+            "code565": "0xFBEF",
+            "code888": "#FF7F7F"
+        },
+        {
+            "name": "Lust",
+            "code565": "0xE104",
+            "code888": "#E62020"
+        },
+        {
+            "name": "Madder",
+            "code565": "0xA004",
+            "code888": "#A50021"
+        },
+        {
+            "name": "Maroon",
+            "code565": "0x8000",
+            "code888": "#800000"
+        },
+        {
+            "name": "Maximum red",
+            "code565": "0xD104",
+            "code888": "#D92121"
+        },
+        {
+            "name": "Maximum red purple",
+            "code565": "0xA1CF",
+            "code888": "#A63A79"
+        },
+        {
+            "name": "Maximum yellow red",
+            "code565": "0xEDC9",
+            "code888": "#F2BA49"
+        },
+        {
+            "name": "Medium candy apple red",
+            "code565": "0xD825",
+            "code888": "#E2062C"
+        },
+        {
+            "name": "Medium violet-red",
+            "code565": "0xC0B0",
+            "code888": "#C71585"
+        },
+        {
+            "name": "Middle red",
+            "code565": "0xE46E",
+            "code888": "#E58E73"
+        },
+        {
+            "name": "Middle red purple",
+            "code565": "0xA2AA",
+            "code888": "#A55353"
+        },
+        {
+            "name": "Middle yellow red",
+            "code565": "0xED8E",
+            "code888": "#ECB176"
+        },
+        {
+            "name": "Misty rose",
+            "code565": "0xFF1B",
+            "code888": "#FFE4E1"
+        },
+        {
+            "name": "Old rose",
+            "code565": "0xBC10",
+            "code888": "#C08081"
+        },
+        {
+            "name": "Orange-red",
+            "code565": "0xFB44",
+            "code888": "#FF681F"
+        },
+        {
+            "name": "Orange-red (Crayola)",
+            "code565": "0xFAA9",
+            "code888": "#FF5349"
+        },
+        {
+            "name": "OU Crimson red",
+            "code565": "0x80A3",
+            "code888": "#841617"
+        },
+        {
+            "name": "Persian red",
+            "code565": "0xC9A6",
+            "code888": "#CC3333"
+        },
+        {
+            "name": "Pink",
+            "code565": "0xFDF9",
+            "code888": "#FFC0CB"
+        },
+        {
+            "name": "Radical Red",
+            "code565": "0xF9AB",
+            "code888": "#FF355E"
+        },
+        {
+            "name": "Red",
+            "code565": "0xF800",
+            "code888": "#FF0000"
+        },
+        {
+            "name": "Red (CMYK) (pigment red)",
+            "code565": "0xE8E4",
+            "code888": "#ED1B24"
+        },
+        {
+            "name": "Red (Crayola)",
+            "code565": "0xE909",
+            "code888": "#EE204E"
+        },
+        {
+            "name": "Red (Munsell)",
+            "code565": "0xE807",
+            "code888": "#F2003C"
+        },
+        {
+            "name": "Red (NCS)",
+            "code565": "0xC006",
+            "code888": "#C40234"
+        },
+        {
+            "name": "Red-orange",
+            "code565": "0xFAA9",
+            "code888": "#FF5349"
+        },
+        {
+            "name": "Red-orange (Color wheel)",
+            "code565": "0xFA20",
+            "code888": "#FF4500"
+        },
+        {
+            "name": "Red-orange (Crayola)",
+            "code565": "0xFB44",
+            "code888": "#FF681F"
+        },
+        {
+            "name": "Red (Pantone)",
+            "code565": "0xE947",
+            "code888": "#ED2839"
+        },
+        {
+            "name": "Red (pigment)",
+            "code565": "0xE8E4",
+            "code888": "#ED1C24"
+        },
+        {
+            "name": "Red-purple",
+            "code565": "0xE00F",
+            "code888": "#E40078"
+        },
+        {
+            "name": "Red (RGB)",
+            "code565": "0xF800",
+            "code888": "#FF0000"
+        },
+        {
+            "name": "Red (RYB)",
+            "code565": "0xF942",
+            "code888": "#FE2712"
+        },
+        {
+            "name": "Red Salsa",
+            "code565": "0xF9C9",
+            "code888": "#FD3A4A"
+        },
+        {
+            "name": "Red-violet (Color wheel)",
+            "code565": "0x9168",
+            "code888": "#922B3E"
+        },
+        {
+            "name": "Red-violet (Crayola)",
+            "code565": "0xBA31",
+            "code888": "#C0448F"
+        },
+        {
+            "name": "Redwood",
+            "code565": "0xA2CA",
+            "code888": "#A45953"
+        },
+        {
+            "name": "Rojo",
+            "code565": "0xE005",
+            "code888": "#E60026"
+        },
+        {
+            "name": "Rojo Spanish red",
+            "code565": "0xA880",
+            "code888": "#A91101"
+        },
+        {
+            "name": "Rose ebony",
+            "code565": "0x6A49",
+            "code888": "#674846"
+        },
+        {
+            "name": "Rose red",
+            "code565": "0xC0EA",
+            "code888": "#C21E56"
+        },
+        {
+            "name": "Rose taupe",
+            "code565": "0x92EB",
+            "code888": "#905D5D"
+        },
+        {
+            "name": "Rose vale",
+            "code565": "0xAA6A",
+            "code888": "#AB4E52"
+        },
+        {
+            "name": "Rosewood",
+            "code565": "0x6001",
+            "code888": "#65000B"
+        },
+        {
+            "name": "Rosy Brown",
+            "code565": "0xBC71",
+            "code888": "#BC8F8F"
+        },
+        {
+            "name": "Rubine red",
+            "code565": "0xC80A",
+            "code888": "#D10056"
+        },
+        {
+            "name": "Ruby red",
+            "code565": "0x9884",
+            "code888": "#9B111E"
+        },
+        {
+            "name": "Rusty red",
+            "code565": "0xD968",
+            "code888": "#DA2C43"
+        },
+        {
+            "name": "Salmon",
+            "code565": "0xF40E",
+            "code888": "#FA8072"
+        },
+        {
+            "name": "Salmon Pink",
+            "code565": "0xFC94",
+            "code888": "#FF91A4"
+        },
+        {
+            "name": "Scarlet",
+            "code565": "0xF920",
+            "code888": "#FF2400"
+        },
+        {
+            "name": "Sizzling Red",
+            "code565": "0xF9CA",
+            "code888": "#FF3855"
+        },
+        {
+            "name": "Spanish red",
+            "code565": "0xE005",
+            "code888": "#E60026"
+        },
+        {
+            "name": "Syracuse Orange",
+            "code565": "0xD220",
+            "code888": "#D44500"
+        },
+        {
+            "name": "Tea rose (red)",
+            "code565": "0xF618",
+            "code888": "#F4C2C2"
+        },
+        {
+            "name": "Tomato",
+            "code565": "0xFB09",
+            "code888": "#FF6347"
+        },
+        {
+            "name": "Turkey red",
+            "code565": "0xA880",
+            "code888": "#A91101"
+        },
+        {
+            "name": "Tuscan red",
+            "code565": "0x7A49",
+            "code888": "#7C4848"
+        },
+        {
+            "name": "UA red",
+            "code565": "0xD009",
+            "code888": "#D9004C"
+        },
+        {
+            "name": "Ultra red",
+            "code565": "0xFB70",
+            "code888": "#FC6C85"
+        },
+        {
+            "name": "University of Pennsylvania Red",
+            "code565": "0x9800",
+            "code888": "#990000"
+        },
+        {
+            "name": "Upsdell red",
+            "code565": "0xA905",
+            "code888": "#AE2029"
+        },
+        {
+            "name": "Venetian red",
+            "code565": "0xC043",
+            "code888": "#C80815"
+        },
+        {
+            "name": "Vermilion",
+            "code565": "0xE206",
+            "code888": "#E34234"
+        },
+        {
+            "name": "Violet-red",
+            "code565": "0xF2B2",
+            "code888": "#F75394"
+        },
+        {
+            "name": "African Violet",
+            "code565": "0xB437",
+            "code888": "#B284BE"
+        },
+        {
+            "name": "Blue-violet",
+            "code565": "0x897B",
+            "code888": "#8A2BE2"
+        },
+        {
+            "name": "Blue-violet (color wheel)",
+            "code565": "0x48CF",
+            "code888": "#4D1A7F"
+        },
+        {
+            "name": "Blue-violet (Crayola)",
+            "code565": "0x7337",
+            "code888": "#7366BD"
+        },
+        {
+            "name": "Chinese Violet",
+            "code565": "0x8311",
+            "code888": "#856088"
+        },
+        {
+            "name": "Dark Violet",
+            "code565": "0x901A",
+            "code888": "#9400D3"
+        },
+        {
+            "name": "Electric Violet",
+            "code565": "0x881F",
+            "code888": "#8F00FF"
+        },
+        {
+            "name": "English Violet",
+            "code565": "0x51EB",
+            "code888": "#563C5C"
+        },
+        {
+            "name": "French Violet",
+            "code565": "0x8839",
+            "code888": "#8806CE"
+        },
+        {
+            "name": "Grape",
+            "code565": "0x6974",
+            "code888": "#6F2DA8"
+        },
+        {
+            "name": "Japanese violet",
+            "code565": "0x598A",
+            "code888": "#5B3256"
+        },
+        {
+            "name": "Lavender",
+            "code565": "0xB3FB",
+            "code888": "#B57EDC"
+        },
+        {
+            "name": "Mauve (Mallow)",
+            "code565": "0xDD7F",
+            "code888": "#E0B0FF"
+        },
+        {
+            "name": "Medium violet-red",
+            "code565": "0xC0B0",
+            "code888": "#C71585"
+        },
+        {
+            "name": "Red-violet (Color wheel)",
+            "code565": "0x9168",
+            "code888": "#922B3E"
+        },
+        {
+            "name": "Red-violet (Crayola)",
+            "code565": "0xBA31",
+            "code888": "#C0448F"
+        },
+        {
+            "name": "Russian Violet",
+            "code565": "0x30C9",
+            "code888": "#32174D"
+        },
+        {
+            "name": "Spanish violet",
+            "code565": "0x4950",
+            "code888": "#4C2882"
+        },
+        {
+            "name": "Ultra Violet",
+            "code565": "0x62B2",
+            "code888": "#645394"
+        },
+        {
+            "name": "Violet",
+            "code565": "0x781F",
+            "code888": "#7F00FF"
+        },
+        {
+            "name": "Violet-blue",
+            "code565": "0x3256",
+            "code888": "#324AB2"
+        },
+        {
+            "name": "Violet-blue (Crayola)",
+            "code565": "0x7378",
+            "code888": "#766EC8"
+        },
+        {
+            "name": "Violet (color wheel)",
+            "code565": "0x781F",
+            "code888": "#7F00FF"
+        },
+        {
+            "name": "Violet (crayola)",
+            "code565": "0x91EF",
+            "code888": "#963D7F"
+        },
+        {
+            "name": "Violet (G&S)",
+            "code565": "0x4950",
+            "code888": "#4C2882"
+        },
+        {
+            "name": "Violet (JTC)",
+            "code565": "0x598A",
+            "code888": "#5B3256"
+        },
+        {
+            "name": "Violet-red",
+            "code565": "0xF2B2",
+            "code888": "#F75394"
+        },
+        {
+            "name": "Violet (RYB)",
+            "code565": "0x8015",
+            "code888": "#8601AF"
+        },
+        {
+            "name": "Violet (web)",
+            "code565": "0xEC1D",
+            "code888": "#EE82EE"
+        },
+        {
+            "name": "Violet (web color)",
+            "code565": "0xEC1D",
+            "code888": "#EE82EE"
+        },
+        {
+            "name": "Vivid Violet",
+            "code565": "0x981F",
+            "code888": "#9F00FF"
+        },
+        {
+            "name": "Wisteria",
+            "code565": "0xC51B",
+            "code888": "#C9A0DC"
+        },
+        {
+            "name": "Alabaster",
+            "code565": "0xEF5B",
+            "code888": "#EDEAE0"
+        },
+        {
+            "name": "Antique white",
+            "code565": "0xF75A",
+            "code888": "#FAEBD7"
+        },
+        {
+            "name": "Baby powder",
+            "code565": "0xFFFE",
+            "code888": "#FEFEFA"
+        },
+        {
+            "name": "Beige",
+            "code565": "0xF7BB",
+            "code888": "#F5F5DC"
+        },
+        {
+            "name": "Bone",
+            "code565": "0xE6D8",
+            "code888": "#E3DAC9"
+        },
+        {
+            "name": "Champagne",
+            "code565": "0xF739",
+            "code888": "#F7E7CE"
+        },
+        {
+            "name": "Cornsilk",
+            "code565": "0xFFBB",
+            "code888": "#FFF8DC"
+        },
+        {
+            "name": "Cream",
+            "code565": "0xFFF9",
+            "code888": "#FFFDD0"
+        },
+        {
+            "name": "Dutch white",
+            "code565": "0xEEF7",
+            "code888": "#EFDFBB"
+        },
+        {
+            "name": "Eggshell",
+            "code565": "0xEF5A",
+            "code888": "#F0EAD6"
+        },
+        {
+            "name": "Flax",
+            "code565": "0xEED0",
+            "code888": "#EEDC82"
+        },
+        {
+            "name": "Floral white",
+            "code565": "0xFFDD",
+            "code888": "#FFFAF0"
+        },
+        {
+            "name": "Ghost white",
+            "code565": "0xF7BF",
+            "code888": "#F8F8FF"
+        },
+        {
+            "name": "Ivory",
+            "code565": "0xFFFD",
+            "code888": "#FFFFF0"
+        },
+        {
+            "name": "Navajo white",
+            "code565": "0xFEF5",
+            "code888": "#FFDEAD"
+        },
+        {
+            "name": "Old lace",
+            "code565": "0xFFBC",
+            "code888": "#FDF5E6"
+        },
+        {
+            "name": "Parchment",
+            "code565": "0xEF5A",
+            "code888": "#F1E9D2"
+        },
+        {
+            "name": "Seashell",
+            "code565": "0xFFBD",
+            "code888": "#FFF5EE"
+        },
+        {
+            "name": "Snow",
+            "code565": "0xFFDE",
+            "code888": "#FFFAFA"
+        },
+        {
+            "name": "Vanilla",
+            "code565": "0xF735",
+            "code888": "#F3E5AB"
+        },
+        {
+            "name": "White",
+            "code565": "0xFFFF",
+            "code888": "#FFFFFF"
+        },
+        {
+            "name": "White smoke",
+            "code565": "0xF7BE",
+            "code888": "#F5F5F5"
+        },
+        {
+            "name": "Army green",
+            "code565": "0x4AA4",
+            "code888": "#4B5320"
+        },
+        {
+            "name": "Arylide yellow",
+            "code565": "0xE6AD",
+            "code888": "#E9D66B"
+        },
+        {
+            "name": "Bright yellow (Crayola)",
+            "code565": "0xFD44",
+            "code888": "#FFAA1D"
+        },
+        {
+            "name": "Cadmium yellow",
+            "code565": "0xFFA0",
+            "code888": "#FFF600"
+        },
+        {
+            "name": "Canary Yellow",
+            "code565": "0xFFF3",
+            "code888": "#FFFF99"
+        },
+        {
+            "name": "Chartreuse (traditional)",
+            "code565": "0xDFE0",
+            "code888": "#DFFF00"
+        },
+        {
+            "name": "Chinese yellow",
+            "code565": "0xFD80",
+            "code888": "#FFB200"
+        },
+        {
+            "name": "Chrome yellow",
+            "code565": "0xFD20",
+            "code888": "#FFA700"
+        },
+        {
+            "name": "Cream",
+            "code565": "0xFFF9",
+            "code888": "#FFFDD0"
+        },
+        {
+            "name": "Cyber Yellow",
+            "code565": "0xFE80",
+            "code888": "#FFD300"
+        },
+        {
+            "name": "Earth yellow",
+            "code565": "0xDD4C",
+            "code888": "#E1A95F"
+        },
+        {
+            "name": "Feldgrau",
+            "code565": "0x4AEA",
+            "code888": "#4D5D53"
+        },
+        {
+            "name": "Gold (Golden)",
+            "code565": "0xFEA0",
+            "code888": "#FFD700"
+        },
+        {
+            "name": "Golden yellow",
+            "code565": "0xFEE0",
+            "code888": "#FFDF00"
+        },
+        {
+            "name": "Green earth",
+            "code565": "0xDEF2",
+            "code888": "#DADD98"
+        },
+        {
+            "name": "Green-yellow",
+            "code565": "0xAFE6",
+            "code888": "#ADFF2F"
+        },
+        {
+            "name": "Green-yellow (Crayola)",
+            "code565": "0xEF32",
+            "code888": "#F0E891"
+        },
+        {
+            "name": "Greenish Yellow",
+            "code565": "0xEF4C",
+            "code888": "#EEEA62"
+        },
+        {
+            "name": "Hansa yellow",
+            "code565": "0xE6AD",
+            "code888": "#E9D66B"
+        },
+        {
+            "name": "Indian yellow",
+            "code565": "0xE54B",
+            "code888": "#E3A857"
+        },
+        {
+            "name": "Lemon Chiffon",
+            "code565": "0xFFD9",
+            "code888": "#FFFACD"
+        },
+        {
+            "name": "Lemon (Crayola)",
+            "code565": "0xFFE0",
+            "code888": "#FDFF00"
+        },
+        {
+            "name": "Lemon yellow",
+            "code565": "0xFF8A",
+            "code888": "#FFF44F"
+        },
+        {
+            "name": "Lemon yellow (Crayola)",
+            "code565": "0xFFF3",
+            "code888": "#FFFF9F"
+        },
+        {
+            "name": "Light goldenrod yellow",
+            "code565": "0xF7DA",
+            "code888": "#FAFAD2"
+        },
+        {
+            "name": "Light Yellow",
+            "code565": "0xFFFB",
+            "code888": "#FFFFE0"
+        },
+        {
+            "name": "Maximum green yellow",
+            "code565": "0xD72A",
+            "code888": "#D9E650"
+        },
+        {
+            "name": "Maximum Yellow",
+            "code565": "0xF7C7",
+            "code888": "#FAFA37"
+        },
+        {
+            "name": "Maximum yellow red",
+            "code565": "0xEDC9",
+            "code888": "#F2BA49"
+        },
+        {
+            "name": "Mellow Yellow",
+            "code565": "0xF6EF",
+            "code888": "#F8DE7E"
+        },
+        {
+            "name": "Middle green yellow",
+            "code565": "0xADEC",
+            "code888": "#ACBF60"
+        },
+        {
+            "name": "Middle yellow",
+            "code565": "0xFF40",
+            "code888": "#FFEB00"
+        },
+        {
+            "name": "Middle yellow red",
+            "code565": "0xED8E",
+            "code888": "#ECB176"
+        },
+        {
+            "name": "Mikado yellow",
+            "code565": "0xFE01",
+            "code888": "#FFC40C"
+        },
+        {
+            "name": "Mindaro",
+            "code565": "0xE7D1",
+            "code888": "#E3F988"
+        },
+        {
+            "name": "Minion yellow",
+            "code565": "0xF6EA",
+            "code888": "#F5E050"
+        },
+        {
+            "name": "Naples yellow",
+            "code565": "0xF6CB",
+            "code888": "#FADA5E"
+        },
+        {
+            "name": "Olive",
+            "code565": "0x8400",
+            "code888": "#808000"
+        },
+        {
+            "name": "Orange-yellow",
+            "code565": "0xF5E4",
+            "code888": "#F5BD1F"
+        },
+        {
+            "name": "Orange-yellow (Crayola)",
+            "code565": "0xF6AD",
+            "code888": "#F8D568"
+        },
+        {
+            "name": "Pear",
+            "code565": "0xCF06",
+            "code888": "#D1E231"
+        },
+        {
+            "name": "Process Yellow",
+            "code565": "0xFF60",
+            "code888": "#FFEF00"
+        },
+        {
+            "name": "Royal Yellow",
+            "code565": "0xF6CB",
+            "code888": "#FADA5E"
+        },
+        {
+            "name": "Safety Yellow",
+            "code565": "0xEE80",
+            "code888": "#EED202"
+        },
+        {
+            "name": "School bus yellow",
+            "code565": "0xFEA0",
+            "code888": "#FFD800"
+        },
+        {
+            "name": "Selective yellow",
+            "code565": "0xFDC0",
+            "code888": "#FFBA00"
+        },
+        {
+            "name": "Stil de grain yellow",
+            "code565": "0xF6CB",
+            "code888": "#FADA5E"
+        },
+        {
+            "name": "Titanium yellow",
+            "code565": "0xEF20",
+            "code888": "#EEE600"
+        },
+        {
+            "name": "Unmellow Yellow",
+            "code565": "0xFFEC",
+            "code888": "#FFFF66"
+        },
+        {
+            "name": "Xanthic",
+            "code565": "0xEF61",
+            "code888": "#EEED09"
+        },
+        {
+            "name": "Yellow",
+            "code565": "0xFFE0",
+            "code888": "#FFFF00"
+        },
+        {
+            "name": "Yellow (Crayola)",
+            "code565": "0xFF30",
+            "code888": "#FCE883"
+        },
+        {
+            "name": "Yellow-green",
+            "code565": "0x9E66",
+            "code888": "#9ACD32"
+        },
+        {
+            "name": "Yellow-green (Color Wheel)",
+            "code565": "0x3583",
+            "code888": "#30B21A"
+        },
+        {
+            "name": "Yellow-green (Crayola)",
+            "code565": "0xC710",
+            "code888": "#C5E384"
+        },
+        {
+            "name": "Yellow (Munsell)",
+            "code565": "0xEE40",
+            "code888": "#EFCC00"
+        },
+        {
+            "name": "Yellow (NCS)",
+            "code565": "0xFE80",
+            "code888": "#FFD300"
+        },
+        {
+            "name": "Yellow Orange",
+            "code565": "0xFD68",
+            "code888": "#FFAE42"
+        },
+        {
+            "name": "Yellow Orange (Color Wheel)",
+            "code565": "0xFCA1",
+            "code888": "#FF9505"
+        },
+        {
+            "name": "Yellow (Pantone)",
+            "code565": "0xFEE0",
+            "code888": "#FEDF00"
+        },
+        {
+            "name": "Yellow (process)",
+            "code565": "0xFF60",
+            "code888": "#FFEF00"
+        },
+        {
+            "name": "Yellow (RGB) (X11 yellow)",
+            "code565": "0xFFE0",
+            "code888": "#FFFF00"
+        },
+        {
+            "name": "Yellow (RYB)",
+            "code565": "0xFFE6",
+            "code888": "#FEFE33"
+        },
+        {
+            "name": "Yellow Sunshine",
+            "code565": "0xFFA0",
+            "code888": "#FFF700"
+        },
+        {
+            "name": "Absolute Zero",
+            "code565": "0x0257",
+            "code888": "#0048BA"
+        },
+        {
+            "name": "Aero",
+            "code565": "0x7DDC",
+            "code888": "#7CB9E8"
+        },
+        {
+            "name": "Almond",
+            "code565": "0xEEF9",
+            "code888": "#EFDECD"
+        },
+        {
+            "name": "Amaranth",
+            "code565": "0xE16A",
+            "code888": "#E52B50"
+        },
+        {
+            "name": "Amaranth (M&P)",
+            "code565": "0x996D",
+            "code888": "#9F2B68"
+        },
+        {
+            "name": "Amazon",
+            "code565": "0x3BCB",
+            "code888": "#3B7A57"
+        },
+        {
+            "name": "Amber",
+            "code565": "0xFDE0",
+            "code888": "#FFBF00"
+        },
+        {
+            "name": "Amber (SAE/ECE)",
+            "code565": "0xFBE0",
+            "code888": "#FF7E00"
+        },
+        {
+            "name": "Amethyst",
+            "code565": "0x9B39",
+            "code888": "#9966CC"
+        },
+        {
+            "name": "Antique brass",
+            "code565": "0xCCAE",
+            "code888": "#CD9575"
+        },
+        {
+            "name": "Antique bronze",
+            "code565": "0x62E4",
+            "code888": "#665D1E"
+        },
+        {
+            "name": "Antique fuchsia",
+            "code565": "0x92F0",
+            "code888": "#915C83"
+        },
+        {
+            "name": "Antique ruby",
+            "code565": "0x80E5",
+            "code888": "#841B2D"
+        },
+        {
+            "name": "Ao (English)",
+            "code565": "0x0400",
+            "code888": "#008000"
+        },
+        {
+            "name": "Aqua",
+            "code565": "0x07FF",
+            "code888": "#00FFFF"
+        },
+        {
+            "name": "Aquamarine",
+            "code565": "0x7FFA",
+            "code888": "#7FFFD4"
+        },
+        {
+            "name": "Arctic lime",
+            "code565": "0xCFE2",
+            "code888": "#D0FF14"
+        },
+        {
+            "name": "Artichoke",
+            "code565": "0x8CAF",
+            "code888": "#8F9779"
+        },
+        {
+            "name": "Asparagus",
+            "code565": "0x854D",
+            "code888": "#87A96B"
+        },
+        {
+            "name": "Auburn",
+            "code565": "0xA145",
+            "code888": "#A52A2A"
+        },
+        {
+            "name": "Aureolin",
+            "code565": "0xFF60",
+            "code888": "#FDEE00"
+        },
+        {
+            "name": "Avocado",
+            "code565": "0x5400",
+            "code888": "#568203"
+        },
+        {
+            "name": "Banana Mania",
+            "code565": "0xF736",
+            "code888": "#FAE7B5"
+        },
+        {
+            "name": "Battleship grey",
+            "code565": "0x8430",
+            "code888": "#848482"
+        },
+        {
+            "name": "Big dip o’ruby",
+            "code565": "0x9928",
+            "code888": "#9C2542"
+        },
+        {
+            "name": "Bisque",
+            "code565": "0xFF18",
+            "code888": "#FFE4C4"
+        },
+        {
+            "name": "Bistre",
+            "code565": "0x3964",
+            "code888": "#3D2B1F"
+        },
+        {
+            "name": "Bitter lemon",
+            "code565": "0xCEE2",
+            "code888": "#CAE00D"
+        },
+        {
+            "name": "Bitter lime",
+            "code565": "0xBFE0",
+            "code888": "#BFFF00"
+        },
+        {
+            "name": "Blanched almond",
+            "code565": "0xFF59",
+            "code888": "#FFEBCD"
+        },
+        {
+            "name": "Blast-off bronze",
+            "code565": "0xA38C",
+            "code888": "#A57164"
+        },
+        {
+            "name": "Blond",
+            "code565": "0xF777",
+            "code888": "#FAF0BE"
+        },
+        {
+            "name": "Blush",
+            "code565": "0xDAF0",
+            "code888": "#DE5D83"
+        },
+        {
+            "name": "Bole",
+            "code565": "0x7A27",
+            "code888": "#79443B"
+        },
+        {
+            "name": "Brandy",
+            "code565": "0x8208",
+            "code888": "#87413F"
+        },
+        {
+            "name": "Bright lilac",
+            "code565": "0xD49D",
+            "code888": "#D891EF"
+        },
+        {
+            "name": "Bright maroon",
+            "code565": "0xC109",
+            "code888": "#C32148"
+        },
+        {
+            "name": "Brilliant rose",
+            "code565": "0xFAB4",
+            "code888": "#FF55A3"
+        },
+        {
+            "name": "Bronze",
+            "code565": "0xCBE6",
+            "code888": "#CD7F32"
+        },
+        {
+            "name": "Burgundy",
+            "code565": "0x8004",
+            "code888": "#800020"
+        },
+        {
+            "name": "Burlywood",
+            "code565": "0xDDB0",
+            "code888": "#DEB887"
+        },
+        {
+            "name": "Burnt sienna",
+            "code565": "0xE3AA",
+            "code888": "#E97451"
+        },
+        {
+            "name": "Byzantine",
+            "code565": "0xB9B4",
+            "code888": "#BD33A4"
+        },
+        {
+            "name": "Cadet",
+            "code565": "0x534E",
+            "code888": "#536872"
+        },
+        {
+            "name": "Cadet grey",
+            "code565": "0x9515",
+            "code888": "#91A3B0"
+        },
+        {
+            "name": "Café au lait",
+            "code565": "0xA3CB",
+            "code888": "#A67B5B"
+        },
+        {
+            "name": "Café noir",
+            "code565": "0x49A4",
+            "code888": "#4B3621"
+        },
+        {
+            "name": "Camel",
+            "code565": "0xBCCD",
+            "code888": "#C19A6B"
+        },
+        {
+            "name": "Canary",
+            "code565": "0xFFF3",
+            "code888": "#FFFF99"
+        },
+        {
+            "name": "Capri",
+            "code565": "0x05FF",
+            "code888": "#00BFFF"
+        },
+        {
+            "name": "Caput mortuum",
+            "code565": "0x5944",
+            "code888": "#592720"
+        },
+        {
+            "name": "Carmine (M&P)",
+            "code565": "0xD008",
+            "code888": "#D70040"
+        },
+        {
+            "name": "Carnelian",
+            "code565": "0xB0E3",
+            "code888": "#B31B1B"
+        },
+        {
+            "name": "Catawba",
+            "code565": "0x71A8",
+            "code888": "#703642"
+        },
+        {
+            "name": "Cedar Chest",
+            "code565": "0xC2C9",
+            "code888": "#C95A49"
+        },
+        {
+            "name": "Cerise",
+            "code565": "0xD98C",
+            "code888": "#DE3163"
+        },
+        {
+            "name": "Cerulean (Crayola)",
+            "code565": "0x255A",
+            "code888": "#1DACD6"
+        },
+        {
+            "name": "Cerulean frost",
+            "code565": "0x6CD8",
+            "code888": "#6D9BC3"
+        },
+        {
+            "name": "Chartreuse (web)",
+            "code565": "0x7FE0",
+            "code888": "#7FFF00"
+        },
+        {
+            "name": "China rose",
+            "code565": "0xA28D",
+            "code888": "#A8516E"
+        },
+        {
+            "name": "Chocolate (traditional)",
+            "code565": "0x7A00",
+            "code888": "#7B3F00"
+        },
+        {
+            "name": "Chocolate (web)",
+            "code565": "0xD344",
+            "code888": "#D2691E"
+        },
+        {
+            "name": "Cinnamon Satin",
+            "code565": "0xCB0F",
+            "code888": "#CD607E"
+        },
+        {
+            "name": "Citrine",
+            "code565": "0xE661",
+            "code888": "#E4D00A"
+        },
+        {
+            "name": "Citron",
+            "code565": "0x9D44",
+            "code888": "#9FA91F"
+        },
+        {
+            "name": "Claret",
+            "code565": "0x78C6",
+            "code888": "#7F1734"
+        },
+        {
+            "name": "Coffee",
+            "code565": "0x6A67",
+            "code888": "#6F4E37"
+        },
+        {
+            "name": "Cool grey",
+            "code565": "0x8C95",
+            "code888": "#8C92AC"
+        },
+        {
+            "name": "Copper",
+            "code565": "0xB386",
+            "code888": "#B87333"
+        },
+        {
+            "name": "Copper (Crayola)",
+            "code565": "0xDC4D",
+            "code888": "#DA8A67"
+        },
+        {
+            "name": "Copper penny",
+            "code565": "0xAB6D",
+            "code888": "#AD6F69"
+        },
+        {
+            "name": "Copper rose",
+            "code565": "0x9B2C",
+            "code888": "#996666"
+        },
+        {
+            "name": "Coquelicot",
+            "code565": "0xF9C0",
+            "code888": "#FF3800"
+        },
+        {
+            "name": "Corn",
+            "code565": "0xFF4B",
+            "code888": "#FBEC5D"
+        },
+        {
+            "name": "Cosmic cobalt",
+            "code565": "0x3171",
+            "code888": "#2E2D88"
+        },
+        {
+            "name": "Cosmic latte",
+            "code565": "0xFFBC",
+            "code888": "#FFF8E7"
+        },
+        {
+            "name": "Crimson (UA)",
+            "code565": "0x98E6",
+            "code888": "#9E1B32"
+        },
+        {
+            "name": "Crystal",
+            "code565": "0xA6BB",
+            "code888": "#A7D8DE"
+        },
+        {
+            "name": "Cyber grape",
+            "code565": "0x5A0F",
+            "code888": "#58427C"
+        },
+        {
+            "name": "Cyclamen",
+            "code565": "0xF374",
+            "code888": "#F56FA1"
+        },
+        {
+            "name": "Dark byzantium",
+            "code565": "0x59CA",
+            "code888": "#5D3954"
+        },
+        {
+            "name": "Dark goldenrod",
+            "code565": "0xB421",
+            "code888": "#B8860B"
+        },
+        {
+            "name": "Dark khaki",
+            "code565": "0xBDAD",
+            "code888": "#BDB76B"
+        },
+        {
+            "name": "Dark lava",
+            "code565": "0x49E6",
+            "code888": "#483C32"
+        },
+        {
+            "name": "Dark liver",
+            "code565": "0x526A",
+            "code888": "#534B4F"
+        },
+        {
+            "name": "Dark liver (horses)",
+            "code565": "0x51E7",
+            "code888": "#543D37"
+        },
+        {
+            "name": "Dark orchid",
+            "code565": "0x9999",
+            "code888": "#9932CC"
+        },
+        {
+            "name": "Dark salmon",
+            "code565": "0xE4AF",
+            "code888": "#E9967A"
+        },
+        {
+            "name": "Dark sienna",
+            "code565": "0x38A2",
+            "code888": "#3C1414"
+        },
+        {
+            "name": "Dark turquoise",
+            "code565": "0x0679",
+            "code888": "#00CED1"
+        },
+        {
+            "name": "Davys grey",
+            "code565": "0x52AA",
+            "code888": "#555555"
+        },
+        {
+            "name": "Deep cerise",
+            "code565": "0xD990",
+            "code888": "#DA3287"
+        },
+        {
+            "name": "Deep champagne",
+            "code565": "0xF6B4",
+            "code888": "#FAD6A5"
+        },
+        {
+            "name": "Deep chestnut",
+            "code565": "0xB269",
+            "code888": "#B94E48"
+        },
+        {
+            "name": "Deep saffron",
+            "code565": "0xFCC6",
+            "code888": "#FF9933"
+        },
+        {
+            "name": "Deep Space Sparkle",
+            "code565": "0x4B2D",
+            "code888": "#4A646C"
+        },
+        {
+            "name": "Deep taupe",
+            "code565": "0x7AEC",
+            "code888": "#7E5E60"
+        },
+        {
+            "name": "Denim",
+            "code565": "0x1B17",
+            "code888": "#1560BD"
+        },
+        {
+            "name": "Desert",
+            "code565": "0xBCCD",
+            "code888": "#C19A6B"
+        },
+        {
+            "name": "Dogwood rose",
+            "code565": "0xD0CD",
+            "code888": "#D71868"
+        },
+        {
+            "name": "Drab",
+            "code565": "0x9383",
+            "code888": "#967117"
+        },
+        {
+            "name": "Ecru",
+            "code565": "0xC590",
+            "code888": "#C2B280"
+        },
+        {
+            "name": "Eggplant",
+            "code565": "0x620A",
+            "code888": "#614051"
+        },
+        {
+            "name": "Eigengrau",
+            "code565": "0x18A4",
+            "code888": "#16161D"
+        },
+        {
+            "name": "Electric indigo",
+            "code565": "0x681F",
+            "code888": "#6F00FF"
+        },
+        {
+            "name": "Electric lime",
+            "code565": "0xCFE0",
+            "code888": "#CCFF00"
+        },
+        {
+            "name": "Emerald",
+            "code565": "0x562F",
+            "code888": "#50C878"
+        },
+        {
+            "name": "English lavender",
+            "code565": "0xB412",
+            "code888": "#B48395"
+        },
+        {
+            "name": "English vermillion",
+            "code565": "0xCA49",
+            "code888": "#CC474B"
+        },
+        {
+            "name": "Fallow",
+            "code565": "0xBCCD",
+            "code888": "#C19A6B"
+        },
+        {
+            "name": "Fandango",
+            "code565": "0xB1B1",
+            "code888": "#B53389"
+        },
+        {
+            "name": "Fashion fuchsia",
+            "code565": "0xF014",
+            "code888": "#F400A1"
+        },
+        {
+            "name": "Fawn",
+            "code565": "0xE54E",
+            "code888": "#E5AA70"
+        },
+        {
+            "name": "Field drab",
+            "code565": "0x6AA4",
+            "code888": "#6C541E"
+        },
+        {
+            "name": "Fiery rose",
+            "code565": "0xFAAE",
+            "code888": "#FF5470"
+        },
+        {
+            "name": "Fire opal",
+            "code565": "0xE2E9",
+            "code888": "#E95C4B"
+        },
+        {
+            "name": "Firebrick",
+            "code565": "0xB104",
+            "code888": "#B22222"
+        },
+        {
+            "name": "Flame",
+            "code565": "0xDAC4",
+            "code888": "#E25822"
+        },
+        {
+            "name": "Flirt",
+            "code565": "0xA00D",
+            "code888": "#A2006D"
+        },
+        {
+            "name": "French beige",
+            "code565": "0xA3CB",
+            "code888": "#A67B5B"
+        },
+        {
+            "name": "French bistre",
+            "code565": "0x8369",
+            "code888": "#856D4D"
+        },
+        {
+            "name": "French fuchsia",
+            "code565": "0xFA12",
+            "code888": "#FD3F92"
+        },
+        {
+            "name": "French lilac",
+            "code565": "0x8311",
+            "code888": "#86608E"
+        },
+        {
+            "name": "French lime",
+            "code565": "0x9FE7",
+            "code888": "#9EFD38"
+        },
+        {
+            "name": "French mauve",
+            "code565": "0xD39A",
+            "code888": "#D473D4"
+        },
+        {
+            "name": "French raspberry",
+            "code565": "0xC169",
+            "code888": "#C72C48"
+        },
+        {
+            "name": "French rose",
+            "code565": "0xF251",
+            "code888": "#F64A8A"
+        },
+        {
+            "name": "Frostbite",
+            "code565": "0xE1B4",
+            "code888": "#E936A7"
+        },
+        {
+            "name": "Fuchsia",
+            "code565": "0xF81F",
+            "code888": "#FF00FF"
+        },
+        {
+            "name": "Fuchsia (Crayola)",
+            "code565": "0xBAB7",
+            "code888": "#C154C1"
+        },
+        {
+            "name": "Fuchsia rose",
+            "code565": "0xC22E",
+            "code888": "#C74375"
+        },
+        {
+            "name": "Fulvous",
+            "code565": "0xE420",
+            "code888": "#E48400"
+        },
+        {
+            "name": "Fuzzy Wuzzy",
+            "code565": "0x8204",
+            "code888": "#87421F"
+        },
+        {
+            "name": "Gamboge",
+            "code565": "0xE4C2",
+            "code888": "#E49B0F"
+        },
+        {
+            "name": "Generic viridian",
+            "code565": "0x03EC",
+            "code888": "#007F66"
+        },
+        {
+            "name": "Glossy grape",
+            "code565": "0xAC96",
+            "code888": "#AB92B3"
+        },
+        {
+            "name": "Gold",
+            "code565": "0xA3E0",
+            "code888": "#A57C00"
+        },
+        {
+            "name": "Gold (Crayola)",
+            "code565": "0xE5F1",
+            "code888": "#E6BE8A"
+        },
+        {
+            "name": "Gold Fusion",
+            "code565": "0x83A9",
+            "code888": "#85754E"
+        },
+        {
+            "name": "Gold (metallic)",
+            "code565": "0xD567",
+            "code888": "#D4AF37"
+        },
+        {
+            "name": "Gold (web) (Golden)",
+            "code565": "0xFEA0",
+            "code888": "#FFD700"
+        },
+        {
+            "name": "Golden poppy",
+            "code565": "0xFE00",
+            "code888": "#FCC200"
+        },
+        {
+            "name": "Granny Smith apple",
+            "code565": "0xA713",
+            "code888": "#A8E4A0"
+        },
+        {
+            "name": "Grullo",
+            "code565": "0xACD0",
+            "code888": "#A99A86"
+        },
+        {
+            "name": "Harvest gold",
+            "code565": "0xDC80",
+            "code888": "#DA9100"
+        },
+        {
+            "name": "Heat Wave",
+            "code565": "0xFBC0",
+            "code888": "#FF7A00"
+        },
+        {
+            "name": "Hollywood cerise",
+            "code565": "0xF014",
+            "code888": "#F400A1"
+        },
+        {
+            "name": "Iceberg",
+            "code565": "0x753A",
+            "code888": "#71A6D2"
+        },
+        {
+            "name": "Icterine",
+            "code565": "0xFFAB",
+            "code888": "#FCF75E"
+        },
+        {
+            "name": "Illuminating emerald",
+            "code565": "0x348E",
+            "code888": "#319177"
+        },
+        {
+            "name": "Inchworm",
+            "code565": "0xB74B",
+            "code888": "#B2EC5D"
+        },
+        {
+            "name": "Indigo",
+            "code565": "0x4810",
+            "code888": "#4B0082"
+        },
+        {
+            "name": "Indigo dye",
+            "code565": "0x020D",
+            "code888": "#00416A"
+        },
+        {
+            "name": "Iris",
+            "code565": "0x5A99",
+            "code888": "#5A4FCF"
+        },
+        {
+            "name": "Irresistible",
+            "code565": "0xB22D",
+            "code888": "#B3446C"
+        },
+        {
+            "name": "Isabelline",
+            "code565": "0xF77D",
+            "code888": "#F4F0EC"
+        },
+        {
+            "name": "Jade",
+            "code565": "0x054D",
+            "code888": "#00A86B"
+        },
+        {
+            "name": "Japanese carmine",
+            "code565": "0x9946",
+            "code888": "#9D2933"
+        },
+        {
+            "name": "Jasmine",
+            "code565": "0xF6EF",
+            "code888": "#F8DE7E"
+        },
+        {
+            "name": "Jazzberry jam",
+            "code565": "0xA06B",
+            "code888": "#A50B5E"
+        },
+        {
+            "name": "Jonquil",
+            "code565": "0xF643",
+            "code888": "#F4CA16"
+        },
+        {
+            "name": "June bud",
+            "code565": "0xBECB",
+            "code888": "#BDDA57"
+        },
+        {
+            "name": "Key lime",
+            "code565": "0xE791",
+            "code888": "#E8F48C"
+        },
+        {
+            "name": "Khaki (web)",
+            "code565": "0xC572",
+            "code888": "#C3B091"
+        },
+        {
+            "name": "Khaki (X11) (Light khaki)",
+            "code565": "0xEF31",
+            "code888": "#F0E68C"
+        },
+        {
+            "name": "Kobe",
+            "code565": "0x8963",
+            "code888": "#882D17"
+        },
+        {
+            "name": "Kobi",
+            "code565": "0xE4F8",
+            "code888": "#E79FC4"
+        },
+        {
+            "name": "Languid lavender",
+            "code565": "0xD65B",
+            "code888": "#D6CADD"
+        },
+        {
+            "name": "Laser lemon",
+            "code565": "0xFFEC",
+            "code888": "#FFFF66"
+        },
+        {
+            "name": "Lava",
+            "code565": "0xC884",
+            "code888": "#CF1020"
+        },
+        {
+            "name": "Lavender blush",
+            "code565": "0xFF7E",
+            "code888": "#FFF0F5"
+        },
+        {
+            "name": "Lavender (floral)",
+            "code565": "0xB3FB",
+            "code888": "#B57EDC"
+        },
+        {
+            "name": "Lavender (web)",
+            "code565": "0xE73E",
+            "code888": "#E6E6FA"
+        },
+        {
+            "name": "Lemon",
+            "code565": "0xFFA0",
+            "code888": "#FFF700"
+        },
+        {
+            "name": "Lemon curry",
+            "code565": "0xCD04",
+            "code888": "#CCA01D"
+        },
+        {
+            "name": "Lemon glacier",
+            "code565": "0xFFE0",
+            "code888": "#FDFF00"
+        },
+        {
+            "name": "Lemon meringue",
+            "code565": "0xF757",
+            "code888": "#F6EABE"
+        },
+        {
+            "name": "Light French beige",
+            "code565": "0xC56F",
+            "code888": "#C8AD7F"
+        },
+        {
+            "name": "Light periwinkle",
+            "code565": "0xC65B",
+            "code888": "#C5CBE1"
+        },
+        {
+            "name": "Light salmon",
+            "code565": "0xFD0F",
+            "code888": "#FFA07A"
+        },
+        {
+            "name": "Lilac",
+            "code565": "0xC518",
+            "code888": "#C8A2C8"
+        },
+        {
+            "name": "Lilac Luster",
+            "code565": "0xACD5",
+            "code888": "#AE98AA"
+        },
+        {
+            "name": "Lime (color wheel)",
+            "code565": "0xBFE0",
+            "code888": "#BFFF00"
+        },
+        {
+            "name": "Linen",
+            "code565": "0xF77C",
+            "code888": "#FAF0E6"
+        },
+        {
+            "name": "Lion",
+            "code565": "0xBCCD",
+            "code888": "#C19A6B"
+        },
+        {
+            "name": "Liver",
+            "code565": "0x6A69",
+            "code888": "#674C47"
+        },
+        {
+            "name": "Liver chestnut",
+            "code565": "0x93AA",
+            "code888": "#987456"
+        },
+        {
+            "name": "Liver (dogs)",
+            "code565": "0xB365",
+            "code888": "#B86D29"
+        },
+        {
+            "name": "Liver (organ)",
+            "code565": "0x6964",
+            "code888": "#6C2E1F"
+        },
+        {
+            "name": "Livid",
+            "code565": "0x64D9",
+            "code888": "#6699CC"
+        },
+        {
+            "name": "Macaroni and Cheese",
+            "code565": "0xFDF1",
+            "code888": "#FFBD88"
+        },
+        {
+            "name": "Madder Lake",
+            "code565": "0xC9A7",
+            "code888": "#CC3336"
+        },
+        {
+            "name": "Magic mint",
+            "code565": "0xAF79",
+            "code888": "#AAF0D1"
+        },
+        {
+            "name": "Magnolia",
+            "code565": "0xEF3A",
+            "code888": "#F2E8D7"
+        },
+        {
+            "name": "Mahogany",
+            "code565": "0xBA00",
+            "code888": "#C04000"
+        },
+        {
+            "name": "Maize",
+            "code565": "0xFF4B",
+            "code888": "#FBEC5D"
+        },
+        {
+            "name": "Maize (Crayola)",
+            "code565": "0xEE29",
+            "code888": "#F2C649"
+        },
+        {
+            "name": "Malachite",
+            "code565": "0x0ECA",
+            "code888": "#0BDA51"
+        },
+        {
+            "name": "Manatee",
+            "code565": "0x94D5",
+            "code888": "#979AAA"
+        },
+        {
+            "name": "Mandarin",
+            "code565": "0xF3C9",
+            "code888": "#F37A48"
+        },
+        {
+            "name": "Mango",
+            "code565": "0xFDE0",
+            "code888": "#FDBE02"
+        },
+        {
+            "name": "Mango Tango",
+            "code565": "0xFC08",
+            "code888": "#FF8243"
+        },
+        {
+            "name": "Marigold",
+            "code565": "0xE504",
+            "code888": "#EAA221"
+        },
+        {
+            "name": "Maroon (Crayola)",
+            "code565": "0xC109",
+            "code888": "#C32148"
+        },
+        {
+            "name": "Maroon (web)",
+            "code565": "0x8000",
+            "code888": "#800000"
+        },
+        {
+            "name": "Maroon (X11)",
+            "code565": "0xA98C",
+            "code888": "#B03060"
+        },
+        {
+            "name": "Mauve",
+            "code565": "0xDD7F",
+            "code888": "#E0B0FF"
+        },
+        {
+            "name": "Mauve taupe",
+            "code565": "0x92ED",
+            "code888": "#915F6D"
+        },
+        {
+            "name": "Mauvelous",
+            "code565": "0xECD5",
+            "code888": "#EF98AA"
+        },
+        {
+            "name": "Medium aquamarine",
+            "code565": "0x66F5",
+            "code888": "#66DDAA"
+        },
+        {
+            "name": "Medium carmine",
+            "code565": "0xAA06",
+            "code888": "#AF4035"
+        },
+        {
+            "name": "Medium champagne",
+            "code565": "0xF735",
+            "code888": "#F3E5AB"
+        },
+        {
+            "name": "Medium orchid",
+            "code565": "0xBABA",
+            "code888": "#BA55D3"
+        },
+        {
+            "name": "Medium turquoise",
+            "code565": "0x4E99",
+            "code888": "#48D1CC"
+        },
+        {
+            "name": "Mellow apricot",
+            "code565": "0xF5AF",
+            "code888": "#F8B878"
+        },
+        {
+            "name": "Melon",
+            "code565": "0xFDD5",
+            "code888": "#FEBAAD"
+        },
+        {
+            "name": "Metallic gold",
+            "code565": "0xD567",
+            "code888": "#D3AF37"
+        },
+        {
+            "name": "Metallic Seaweed",
+            "code565": "0x0BF1",
+            "code888": "#0A7E8C"
+        },
+        {
+            "name": "Metallic Sunburst",
+            "code565": "0x9BE7",
+            "code888": "#9C7C38"
+        },
+        {
+            "name": "Middle grey",
+            "code565": "0x8C30",
+            "code888": "#8B8680"
+        },
+        {
+            "name": "Midnight",
+            "code565": "0x712E",
+            "code888": "#702670"
+        },
+        {
+            "name": "Ming",
+            "code565": "0x3BAF",
+            "code888": "#36747D"
+        },
+        {
+            "name": "Mint",
+            "code565": "0x4591",
+            "code888": "#3EB489"
+        },
+        {
+            "name": "Mint cream",
+            "code565": "0xF7FE",
+            "code888": "#F5FFFA"
+        },
+        {
+            "name": "Misty moss",
+            "code565": "0xBD8E",
+            "code888": "#BBB477"
+        },
+        {
+            "name": "Mode beige",
+            "code565": "0x9383",
+            "code888": "#967117"
+        },
+        {
+            "name": "Mountain Meadow",
+            "code565": "0x35D1",
+            "code888": "#30BA8F"
+        },
+        {
+            "name": "Mulberry (Crayola)",
+            "code565": "0xC293",
+            "code888": "#C8509B"
+        },
+        {
+            "name": "Mustard",
+            "code565": "0xFECB",
+            "code888": "#FFDB58"
+        },
+        {
+            "name": "Mystic",
+            "code565": "0xD290",
+            "code888": "#D65282"
+        },
+        {
+            "name": "Mystic maroon",
+            "code565": "0xAA2F",
+            "code888": "#AD4379"
+        },
+        {
+            "name": "Neon Carrot",
+            "code565": "0xFD08",
+            "code888": "#FFA343"
+        },
+        {
+            "name": "Neon fuchsia",
+            "code565": "0xFA0C",
+            "code888": "#FE4164"
+        },
+        {
+            "name": "Nyanza",
+            "code565": "0xE7FB",
+            "code888": "#E9FFDB"
+        },
+        {
+            "name": "Ochre",
+            "code565": "0xCBA4",
+            "code888": "#CC7722"
+        },
+        {
+            "name": "Old burgundy",
+            "code565": "0x4186",
+            "code888": "#43302E"
+        },
+        {
+            "name": "Old gold",
+            "code565": "0xCDA7",
+            "code888": "#CFB53B"
+        },
+        {
+            "name": "Old lavender",
+            "code565": "0x7B4F",
+            "code888": "#796878"
+        },
+        {
+            "name": "Old mauve",
+            "code565": "0x6989",
+            "code888": "#673147"
+        },
+        {
+            "name": "Old silver",
+            "code565": "0x8430",
+            "code888": "#848482"
+        },
+        {
+            "name": "Olive Drab (#3)",
+            "code565": "0x6C64",
+            "code888": "#6B8E23"
+        },
+        {
+            "name": "Olive Drab #7",
+            "code565": "0x39A4",
+            "code888": "#3C341F"
+        },
+        {
+            "name": "Olivine",
+            "code565": "0x9DCE",
+            "code888": "#9AB973"
+        },
+        {
+            "name": "Opal",
+            "code565": "0xA617",
+            "code888": "#A8C3BC"
+        },
+        {
+            "name": "Opera mauve",
+            "code565": "0xB434",
+            "code888": "#B784A7"
+        },
+        {
+            "name": "Orchid (Crayola)",
+            "code565": "0xDCFA",
+            "code888": "#E29CD2"
+        },
+        {
+            "name": "Outer space (Crayola)",
+            "code565": "0x29C7",
+            "code888": "#2D383A"
+        },
+        {
+            "name": "Oxblood",
+            "code565": "0x4800",
+            "code888": "#4A0000"
+        },
+        {
+            "name": "Pale aqua",
+            "code565": "0xBE9C",
+            "code888": "#BCD4E6"
+        },
+        {
+            "name": "Pale cerulean",
+            "code565": "0x9E1B",
+            "code888": "#9BC4E2"
+        },
+        {
+            "name": "Pale silver",
+            "code565": "0xC5F7",
+            "code888": "#C9C0BB"
+        },
+        {
+            "name": "Pale spring bud",
+            "code565": "0xEF57",
+            "code888": "#ECEBBD"
+        },
+        {
+            "name": "Patriarch",
+            "code565": "0x8010",
+            "code888": "#800080"
+        },
+        {
+            "name": "Paynes grey",
+            "code565": "0x534F",
+            "code888": "#536878"
+        },
+        {
+            "name": "Peach (Crayola)",
+            "code565": "0xFE54",
+            "code888": "#FFCBA4"
+        },
+        {
+            "name": "Peach puff",
+            "code565": "0xFED6",
+            "code888": "#FFDAB9"
+        },
+        {
+            "name": "Periwinkle (Crayola)",
+            "code565": "0xC67C",
+            "code888": "#C3CDE6"
+        },
+        {
+            "name": "Permanent Geranium Lake",
+            "code565": "0xD965",
+            "code888": "#E12C2C"
+        },
+        {
+            "name": "Persian indigo",
+            "code565": "0x308F",
+            "code888": "#32127A"
+        },
+        {
+            "name": "Persian plum",
+            "code565": "0x70E3",
+            "code888": "#701C1C"
+        },
+        {
+            "name": "Persian rose",
+            "code565": "0xF954",
+            "code888": "#FE28A2"
+        },
+        {
+            "name": "Pictorial carmine",
+            "code565": "0xC069",
+            "code888": "#C30B4E"
+        },
+        {
+            "name": "Pine tree",
+            "code565": "0x2984",
+            "code888": "#2A2F23"
+        },
+        {
+            "name": "Pistachio",
+            "code565": "0x962E",
+            "code888": "#93C572"
+        },
+        {
+            "name": "Plum",
+            "code565": "0x8A30",
+            "code888": "#8E4585"
+        },
+        {
+            "name": "Plum (web)",
+            "code565": "0xDD1B",
+            "code888": "#DDA0DD"
+        },
+        {
+            "name": "Polished Pine",
+            "code565": "0x5D32",
+            "code888": "#5DA493"
+        },
+        {
+            "name": "Popstar",
+            "code565": "0xBA8C",
+            "code888": "#BE4F62"
+        },
+        {
+            "name": "Prune",
+            "code565": "0x70E3",
+            "code888": "#701C1C"
+        },
+        {
+            "name": "Quick Silver",
+            "code565": "0xA534",
+            "code888": "#A6A6A6"
+        },
+        {
+            "name": "Rajah",
+            "code565": "0xFD4C",
+            "code888": "#FBAB60"
+        },
+        {
+            "name": "Raspberry",
+            "code565": "0xE06B",
+            "code888": "#E30B5D"
+        },
+        {
+            "name": "Raspberry glace",
+            "code565": "0x92ED",
+            "code888": "#915F6D"
+        },
+        {
+            "name": "Raspberry rose",
+            "code565": "0xB22D",
+            "code888": "#B3446C"
+        },
+        {
+            "name": "Raw sienna",
+            "code565": "0xD44B",
+            "code888": "#D68A59"
+        },
+        {
+            "name": "Razzmatazz",
+            "code565": "0xE12D",
+            "code888": "#E3256B"
+        },
+        {
+            "name": "Razzmic Berry",
+            "code565": "0x8A70",
+            "code888": "#8D4E85"
+        },
+        {
+            "name": "Rhythm",
+            "code565": "0x73B2",
+            "code888": "#777696"
+        },
+        {
+            "name": "Roman silver",
+            "code565": "0x8452",
+            "code888": "#838996"
+        },
+        {
+            "name": "Rose",
+            "code565": "0xF80F",
+            "code888": "#FF007F"
+        },
+        {
+            "name": "Rose bonbon",
+            "code565": "0xF213",
+            "code888": "#F9429E"
+        },
+        {
+            "name": "Rose Dust",
+            "code565": "0x9AED",
+            "code888": "#9E5E6F"
+        },
+        {
+            "name": "Rose madder",
+            "code565": "0xE127",
+            "code888": "#E32636"
+        },
+        {
+            "name": "Rosso corsa",
+            "code565": "0xD000",
+            "code888": "#D40000"
+        },
+        {
+            "name": "Ruber",
+            "code565": "0xCA2E",
+            "code888": "#CE4676"
+        },
+        {
+            "name": "Ruby",
+            "code565": "0xD88C",
+            "code888": "#E0115F"
+        },
+        {
+            "name": "Rufous",
+            "code565": "0xA0E1",
+            "code888": "#A81C07"
+        },
+        {
+            "name": "Rust",
+            "code565": "0xB202",
+            "code888": "#B7410E"
+        },
+        {
+            "name": "Sage",
+            "code565": "0xBDB1",
+            "code888": "#BCB88A"
+        },
+        {
+            "name": "Sand",
+            "code565": "0xC590",
+            "code888": "#C2B280"
+        },
+        {
+            "name": "Sand dune",
+            "code565": "0x9383",
+            "code888": "#967117"
+        },
+        {
+            "name": "Sapphire (Crayola)",
+            "code565": "0x0334",
+            "code888": "#0067A5"
+        },
+        {
+            "name": "Satin sheen gold",
+            "code565": "0xCD06",
+            "code888": "#CBA135"
+        },
+        {
+            "name": "Sepia",
+            "code565": "0x7202",
+            "code888": "#704214"
+        },
+        {
+            "name": "Shadow",
+            "code565": "0x8BCB",
+            "code888": "#8A795D"
+        },
+        {
+            "name": "Shimmering Blush",
+            "code565": "0xD432",
+            "code888": "#D98695"
+        },
+        {
+            "name": "Shiny Shamrock",
+            "code565": "0x652F",
+            "code888": "#5FA778"
+        },
+        {
+            "name": "Sienna",
+            "code565": "0x8963",
+            "code888": "#882D17"
+        },
+        {
+            "name": "Silver chalice",
+            "code565": "0xAD55",
+            "code888": "#ACACAC"
+        },
+        {
+            "name": "Silver (Crayola)",
+            "code565": "0xC5F7",
+            "code888": "#C9C0BB"
+        },
+        {
+            "name": "Silver (Metallic)",
+            "code565": "0xAD55",
+            "code888": "#AAA9AD"
+        },
+        {
+            "name": "Silver sand",
+            "code565": "0xBE18",
+            "code888": "#BFC1C2"
+        },
+        {
+            "name": "Sinopia",
+            "code565": "0xCA01",
+            "code888": "#CB410B"
+        },
+        {
+            "name": "Sizzling Sunrise",
+            "code565": "0xFEC0",
+            "code888": "#FFDB00"
+        },
+        {
+            "name": "Smitten",
+            "code565": "0xC210",
+            "code888": "#C84186"
+        },
+        {
+            "name": "Sonic silver",
+            "code565": "0x73AE",
+            "code888": "#757575"
+        },
+        {
+            "name": "Spanish bistre",
+            "code565": "0x83A6",
+            "code888": "#807532"
+        },
+        {
+            "name": "Spanish carmine",
+            "code565": "0xC809",
+            "code888": "#D10047"
+        },
+        {
+            "name": "Spanish viridian",
+            "code565": "0x03EB",
+            "code888": "#007F5C"
+        },
+        {
+            "name": "Spring bud",
+            "code565": "0xA7C0",
+            "code888": "#A7FC00"
+        },
+        {
+            "name": "Spring Frost",
+            "code565": "0x87E5",
+            "code888": "#87FF2A"
+        },
+        {
+            "name": "Steel Teal",
+            "code565": "0x6451",
+            "code888": "#5F8A8B"
+        },
+        {
+            "name": "Straw",
+            "code565": "0xE6CD",
+            "code888": "#E4D96F"
+        },
+        {
+            "name": "Strawberry",
+            "code565": "0xF28A",
+            "code888": "#FA5053"
+        },
+        {
+            "name": "Strawberry Blonde",
+            "code565": "0xFC8C",
+            "code888": "#ff9361"
+        },
+        {
+            "name": "Sugar Plum",
+            "code565": "0x926E",
+            "code888": "#914E75"
+        },
+        {
+            "name": "Sunglow",
+            "code565": "0xFE46",
+            "code888": "#FFCC33"
+        },
+        {
+            "name": "Sunray",
+            "code565": "0xE54B",
+            "code888": "#E3AB57"
+        },
+        {
+            "name": "Sunset",
+            "code565": "0xF6B4",
+            "code888": "#FAD6A5"
+        },
+        {
+            "name": "Tan (Crayola)",
+            "code565": "0xD4CD",
+            "code888": "#D99A6C"
+        },
+        {
+            "name": "Tea rose",
+            "code565": "0xF40F",
+            "code888": "#F88379"
+        },
+        {
+            "name": "Tenné",
+            "code565": "0xCAA0",
+            "code888": "#CD5700"
+        },
+        {
+            "name": "Terra cotta",
+            "code565": "0xDB8B",
+            "code888": "#E2725B"
+        },
+        {
+            "name": "Timberwolf",
+            "code565": "0xDEBA",
+            "code888": "#DBD7D2"
+        },
+        {
+            "name": "Tropical rainforest",
+            "code565": "0x03AB",
+            "code888": "#00755E"
+        },
+        {
+            "name": "Tumbleweed",
+            "code565": "0xDD51",
+            "code888": "#DEAA88"
+        },
+        {
+            "name": "Tuscan",
+            "code565": "0xF6B4",
+            "code888": "#FAD6A5"
+        },
+        {
+            "name": "Tuscan tan",
+            "code565": "0xA3CB",
+            "code888": "#A67B5B"
+        },
+        {
+            "name": "Tuscany",
+            "code565": "0xBCD3",
+            "code888": "#C09999"
+        },
+        {
+            "name": "Twilight lavender",
+            "code565": "0x8A4D",
+            "code888": "#8A496B"
+        },
+        {
+            "name": "Umber",
+            "code565": "0x6289",
+            "code888": "#635147"
+        },
+        {
+            "name": "Unbleached silk",
+            "code565": "0xFEF9",
+            "code888": "#FFDDCA"
+        },
+        {
+            "name": "UP maroon",
+            "code565": "0x7882",
+            "code888": "#7B1113"
+        },
+        {
+            "name": "Vanilla ice",
+            "code565": "0xF475",
+            "code888": "#F38FA9"
+        },
+        {
+            "name": "Vegas gold",
+            "code565": "0xC58B",
+            "code888": "#C5B358"
+        },
+        {
+            "name": "Veronica",
+            "code565": "0x991D",
+            "code888": "#A020F0"
+        },
+        {
+            "name": "Viridian",
+            "code565": "0x440D",
+            "code888": "#40826D"
+        },
+        {
+            "name": "Vivid burgundy",
+            "code565": "0x98E6",
+            "code888": "#9F1D35"
+        },
+        {
+            "name": "Vivid tangerine",
+            "code565": "0xFD11",
+            "code888": "#FFA089"
+        },
+        {
+            "name": "Volt",
+            "code565": "0xCFE0",
+            "code888": "#CEFF00"
+        },
+        {
+            "name": "Wheat",
+            "code565": "0xF6F6",
+            "code888": "#F5DEB3"
+        },
+        {
+            "name": "Wild orchid",
+            "code565": "0xD394",
+            "code888": "#D470A2"
+        },
+        {
+            "name": "Wild Strawberry",
+            "code565": "0xFA34",
+            "code888": "#FF43A4"
+        },
+        {
+            "name": "Wild watermelon",
+            "code565": "0xFB70",
+            "code888": "#FC6C85"
+        },
+        {
+            "name": "Windsor tan",
+            "code565": "0xA2A0",
+            "code888": "#A75502"
+        },
+        {
+            "name": "Wine",
+            "code565": "0x7187",
+            "code888": "#722F37"
+        },
+        {
+            "name": "Wine dregs",
+            "code565": "0x6989",
+            "code888": "#673147"
+        },
+        {
+            "name": "Winter Sky",
+            "code565": "0xF80F",
+            "code888": "#FF007C"
+        },
+        {
+            "name": "Zaffre",
+            "code565": "0x00B4",
+            "code888": "#0014A8"
+        }
+    ],
+    "hexCodes565": [
+        "0x5C54",
+        "0xEFBF",
+        "0x6D9D",
+        "0x041F",
+        "0xEFFF",
+        "0x8E7D",
+        "0x018C",
+        "0x347C",
+        "0x23BF",
+        "0x0495",
+        "0x0437",
+        "0x039F",
+        "0x4CB9",
+        "0x2359",
+        "0x03D4",
+        "0x4C7C",
+        "0xB6DD",
+        "0x64BD",
+        "0x05FF",
+        "0x218B",
+        "0x249F",
+        "0x0397",
+        "0x1336",
+        "0x03B6",
+        "0x8DDD",
+        "0x2B13",
+        "0xAEBC",
+        "0x867E",
+        "0x761F",
+        "0x869E",
+        "0x459C",
+        "0x2272",
+        "0x0130",
+        "0x012C",
+        "0x435B",
+        "0x755B",
+        "0x092D",
+        "0x5C57",
+        "0x867D",
+        "0x0397",
+        "0x4C16",
+        "0x02D9",
+        "0x2B58",
+        "0x447B",
+        "0x4C9B",
+        "0x7CFA",
+        "0x01AD",
+        "0x3860",
+        "0x0000",
+        "0x3860",
+        "0x18C2",
+        "0x3986",
+        "0x530D",
+        "0x39E7",
+        "0xBD76",
+        "0x3A2A",
+        "0x2165",
+        "0x52AA",
+        "0x6B4D",
+        "0x52EA",
+        "0x18E3",
+        "0x31A6",
+        "0x1882",
+        "0x39E7",
+        "0x31C7",
+        "0x4249",
+        "0x2104",
+        "0x0208",
+        "0x0062",
+        "0x0000",
+        "0x1061",
+        "0x49E6",
+        "0x0208",
+        "0xBF3A",
+        "0x7517",
+        "0x6D9D",
+        "0x8E7D",
+        "0xA65D",
+        "0x32D2",
+        "0xBE9C",
+        "0x018C",
+        "0x347C",
+        "0xAF3D",
+        "0x001F",
+        "0xA519",
+        "0x31B3",
+        "0x001F",
+        "0x23BF",
+        "0x0A68",
+        "0x5D7D",
+        "0x0495",
+        "0x0437",
+        "0x00D4",
+        "0x31B3",
+        "0x025F",
+        "0x1310",
+        "0x897B",
+        "0x48CF",
+        "0x7337",
+        "0x5394",
+        "0x3B5C",
+        "0x1BBA",
+        "0x64F3",
+        "0xAD98",
+        "0xA615",
+        "0x551A",
+        "0x03D4",
+        "0x2359",
+        "0x2A97",
+        "0x03D4",
+        "0x4C7C",
+        "0x0255",
+        "0x0011",
+        "0x6333",
+        "0x2A11",
+        "0x534F",
+        "0x8DFA",
+        "0x49F1",
+        "0x218B",
+        "0x2236",
+        "0x03B2",
+        "0x0013",
+        "0x11B4",
+        "0x9634",
+        "0x1F9D",
+        "0x75BF",
+        "0x2C38",
+        "0x4379",
+        "0x9FFF",
+        "0x4A8D",
+        "0x1051",
+        "0xB7FF",
+        "0xCE5F",
+        "0x52D4",
+        "0xAEBC",
+        "0x965C",
+        "0xAE1B",
+        "0x6D1B",
+        "0x629B",
+        "0x4D59",
+        "0x35F7",
+        "0xAD5C",
+        "0x0019",
+        "0x7B5D",
+        "0x7E9C",
+        "0x8ED9",
+        "0x8B97",
+        "0x18CE",
+        "0x8D13",
+        "0x0010",
+        "0x1BBA",
+        "0x4A7F",
+        "0xA6FD",
+        "0x5216",
+        "0x0109",
+        "0x1D58",
+        "0xCE5F",
+        "0x19D7",
+        "0x8D56",
+        "0x0091",
+        "0x3150",
+        "0x2272",
+        "0xAEFC",
+        "0x018A",
+        "0x4352",
+        "0x0130",
+        "0x012C",
+        "0x435B",
+        "0x755B",
+        "0x092D",
+        "0x0334",
+        "0x4B19",
+        "0x7454",
+        "0x6AD9",
+        "0x214A",
+        "0x0397",
+        "0x07FF",
+        "0x214F",
+        "0x03D6",
+        "0x0410",
+        "0x3BB1",
+        "0x1836",
+        "0x07FD",
+        "0x01B5",
+        "0x401F",
+        "0x433E",
+        "0x010B",
+        "0xAEDE",
+        "0x0292",
+        "0x3256",
+        "0x7378",
+        "0x065F",
+        "0xA579",
+        "0x01AD",
+        "0x01AD",
+        "0x3292",
+        "0x9C0E",
+        "0xF7BB",
+        "0x9383",
+        "0x9260",
+        "0xAB69",
+        "0xDD0D",
+        "0xA3CE",
+        "0x89A4",
+        "0x9226",
+        "0x7A00",
+        "0xD344",
+        "0x8307",
+        "0x5A06",
+        "0xEE55",
+        "0x9B23",
+        "0xC572",
+        "0x6A24",
+        "0xCC28",
+        "0x6203",
+        "0x8328",
+        "0xA145",
+        "0xBC71",
+        "0x8223",
+        "0x8A22",
+        "0xF52C",
+        "0x5921",
+        "0x8142",
+        "0xA1C6",
+        "0xD591",
+        "0x49E6",
+        "0x6A67",
+        "0x6205",
+        "0x5A89",
+        "0x62AA",
+        "0xBCCD",
+        "0xEFFF",
+        "0x14D7",
+        "0x036D",
+        "0xB7FF",
+        "0x2165",
+        "0x07FF",
+        "0x07FF",
+        "0x05BD",
+        "0x05BD",
+        "0x0451",
+        "0x7FDF",
+        "0x04CC",
+        "0x3D73",
+        "0xDFFF",
+        "0x2595",
+        "0x026A",
+        "0x3D57",
+        "0x33CE",
+        "0x03CD",
+        "0x0659",
+        "0x03CE",
+        "0x86DD",
+        "0x0410",
+        "0x86B9",
+        "0x46F9",
+        "0x4595",
+        "0x3D31",
+        "0xB5F6",
+        "0x8430",
+        "0x0000",
+        "0x64D9",
+        "0x9515",
+        "0x3A2A",
+        "0x940F",
+        "0x9497",
+        "0x6333",
+        "0x328A",
+        "0x52AA",
+        "0x6B4D",
+        "0xDEDB",
+        "0x6416",
+        "0x6B2D",
+        "0x5B8D",
+        "0x8410",
+        "0xBDF7",
+        "0x8410",
+        "0x29A7",
+        "0xACD5",
+        "0x31A6",
+        "0xC619",
+        "0xD69A",
+        "0x7453",
+        "0x4ACC",
+        "0xBDF7",
+        "0x73AE",
+        "0xE71B",
+        "0xCC53",
+        "0x8BF1",
+        "0xACD5",
+        "0xBDF7",
+        "0x7412",
+        "0x94D2",
+        "0x9470",
+        "0x49E6",
+        "0x8C31",
+        "0xFFFF",
+        "0x742F",
+        "0xADE3",
+        "0xA627",
+        "0x8DA0",
+        "0x4B68",
+        "0x0A68",
+        "0x0349",
+        "0x67E0",
+        "0x0204",
+        "0x1A68",
+        "0x7DAC",
+        "0x0347",
+        "0x0653",
+        "0x02A8",
+        "0xAF15",
+        "0x342F",
+        "0x0184",
+        "0x0320",
+        "0x1924",
+        "0x4AE4",
+        "0x5346",
+        "0x05E7",
+        "0x8DD1",
+        "0x1B88",
+        "0x0387",
+        "0x0269",
+        "0x07E0",
+        "0x1A68",
+        "0x07E8",
+        "0x75CF",
+        "0x53C8",
+        "0x2444",
+        "0x652E",
+        "0x0224",
+        "0x2444",
+        "0x054C",
+        "0x07E0",
+        "0x2C38",
+        "0x1D4F",
+        "0x04CC",
+        "0x0400",
+        "0xA786",
+        "0x054E",
+        "0x04ED",
+        "0x0568",
+        "0x052A",
+        "0x6566",
+        "0x6D74",
+        "0x0400",
+        "0x07E0",
+        "0xAFE6",
+        "0xEF32",
+        "0x47E0",
+        "0xEFFD",
+        "0x4BCD",
+        "0x32E7",
+        "0x1441",
+        "0x0480",
+        "0x2D50",
+        "0x4DC3",
+        "0x3206",
+        "0xADD3",
+        "0x7FC0",
+        "0x9772",
+        "0x3666",
+        "0x07E0",
+        "0x1AC1",
+        "0x760C",
+        "0x35F7",
+        "0x5C66",
+        "0xD72A",
+        "0x4C88",
+        "0x3D8E",
+        "0x07D3",
+        "0x8ED9",
+        "0x4C6B",
+        "0xADEC",
+        "0x024A",
+        "0x97D2",
+        "0x8CCB",
+        "0x1A27",
+        "0x12E6",
+        "0x3FE2",
+        "0x4DF2",
+        "0xB58B",
+        "0x0320",
+        "0x97D2",
+        "0x04CF",
+        "0x562F",
+        "0x0532",
+        "0x11A4",
+        "0x4267",
+        "0x6C8D",
+        "0x01C5",
+        "0x53E5",
+        "0x67EC",
+        "0x344B",
+        "0x07F9",
+        "0x56E6",
+        "0x04EC",
+        "0x8E80",
+        "0x2CA3",
+        "0x048A",
+        "0x07EF",
+        "0xEF57",
+        "0xCF77",
+        "0x9EB6",
+        "0x8CCB",
+        "0x0224",
+        "0x04B2",
+        "0x544F",
+        "0x9E66",
+        "0x3583",
+        "0xC710",
+        "0xB437",
+        "0xA94A",
+        "0x8311",
+        "0x8811",
+        "0x51EB",
+        "0xF8F9",
+        "0xF81F",
+        "0xF81F",
+        "0xF2B4",
+        "0xC90F",
+        "0x9A2E",
+        "0xCA0F",
+        "0xF812",
+        "0xF812",
+        "0xDB9A",
+        "0x818F",
+        "0xFA7B",
+        "0x988A",
+        "0xF9B9",
+        "0xACD5",
+        "0xF897",
+        "0xFB7F",
+        "0xCB95",
+        "0xC9B9",
+        "0xC9AE",
+        "0x598A",
+        "0xEC1D",
+        "0xC302",
+        "0xFE76",
+        "0xFCCC",
+        "0x9260",
+        "0xBAA0",
+        "0xDCA8",
+        "0xEC25",
+        "0xEC84",
+        "0xFBEA",
+        "0xFC60",
+        "0xFAC4",
+        "0xDD24",
+        "0xE548",
+        "0xFA80",
+        "0xFA80",
+        "0xB8A1",
+        "0xB9A5",
+        "0xC572",
+        "0xFEB6",
+        "0xFBE0",
+        "0xFC00",
+        "0xFBA7",
+        "0xE300",
+        "0xFAC0",
+        "0xFCE0",
+        "0xFB44",
+        "0xFAA9",
+        "0xF2C7",
+        "0xFD20",
+        "0xFD20",
+        "0xF5E4",
+        "0xF6AD",
+        "0xFB69",
+        "0xFF7A",
+        "0xFF36",
+        "0xD48B",
+        "0xEAC0",
+        "0xFAC7",
+        "0xEBE5",
+        "0xFBA3",
+        "0xFAA9",
+        "0xFA20",
+        "0xFB44",
+        "0xFBC0",
+        "0xFB20",
+        "0xF606",
+        "0xE300",
+        "0xEC20",
+        "0xFA69",
+        "0xB343",
+        "0xFC00",
+        "0xED86",
+        "0xFD68",
+        "0xFCA1",
+        "0xECF7",
+        "0xF618",
+        "0xFC95",
+        "0xD8D0",
+        "0xFB0F",
+        "0xF412",
+        "0xEDD9",
+        "0xE38F",
+        "0xFD38",
+        "0xEEF9",
+        "0xE475",
+        "0xFDB8",
+        "0xE617",
+        "0xDB74",
+        "0xF40F",
+        "0xF40F",
+        "0xFDDA",
+        "0xF8B2",
+        "0xEE19",
+        "0xDA90",
+        "0xFB73",
+        "0xFB56",
+        "0xFD7A",
+        "0xFAF9",
+        "0xFD9B",
+        "0xFDB7",
+        "0xE00F",
+        "0xFEDC",
+        "0x9BD1",
+        "0xF578",
+        "0xD40F",
+        "0xEDF9",
+        "0xEE78",
+        "0xF659",
+        "0xE1EC",
+        "0xDD34",
+        "0xF3F7",
+        "0xFEFC",
+        "0xFDF9",
+        "0xFBBF",
+        "0xF5F7",
+        "0xFEFE",
+        "0xDD99",
+        "0xD252",
+        "0xF474",
+        "0xE65A",
+        "0xFB39",
+        "0xEBD3",
+        "0xFC95",
+        "0xF897",
+        "0xFB7F",
+        "0xC575",
+        "0x89C8",
+        "0xF5F7",
+        "0xC9B9",
+        "0xCB55",
+        "0xE38F",
+        "0xDB74",
+        "0xFC55",
+        "0xFB7F",
+        "0x714C",
+        "0x30C6",
+        "0xB81F",
+        "0x6990",
+        "0xC9CF",
+        "0x50DE",
+        "0xDB9F",
+        "0x5151",
+        "0xDB74",
+        "0x8810",
+        "0xDD7F",
+        "0xAD5C",
+        "0x71B0",
+        "0xA1CF",
+        "0x939B",
+        "0x8B97",
+        "0xD416",
+        "0xA2AA",
+        "0xC271",
+        "0x4950",
+        "0xDB9A",
+        "0x712D",
+        "0x694C",
+        "0xF73E",
+        "0xF73E",
+        "0x78C9",
+        "0xB354",
+        "0xD81F",
+        "0x5A36",
+        "0x8311",
+        "0xD81F",
+        "0x8010",
+        "0x8010",
+        "0x93D6",
+        "0x9818",
+        "0x4A90",
+        "0xFA7B",
+        "0x9A96",
+        "0x8010",
+        "0x991D",
+        "0x991D",
+        "0x9A75",
+        "0x61B3",
+        "0xE00F",
+        "0xC0B0",
+        "0x7A95",
+        "0xD5FA",
+        "0x6007",
+        "0xD105",
+        "0x7840",
+        "0xFB6B",
+        "0xBA8A",
+        "0x6000",
+        "0xCA0A",
+        "0xFB0F",
+        "0xE004",
+        "0xF840",
+        "0xFDD6",
+        "0xC0E7",
+        "0x9003",
+        "0xD9E6",
+        "0xD9E5",
+        "0xA9C4",
+        "0x5883",
+        "0xE266",
+        "0xCB6A",
+        "0xF40F",
+        "0x8A08",
+        "0xB0E3",
+        "0xD8A7",
+        "0xF7BE",
+        "0x8800",
+        "0xAA6A",
+        "0x80C3",
+        "0xB104",
+        "0xC905",
+        "0x71A6",
+        "0xE947",
+        "0xCAEB",
+        "0xCAA8",
+        "0xEC10",
+        "0xFBEF",
+        "0xE104",
+        "0xA004",
+        "0x8000",
+        "0xD104",
+        "0xA1CF",
+        "0xEDC9",
+        "0xD825",
+        "0xC0B0",
+        "0xE46E",
+        "0xA2AA",
+        "0xED8E",
+        "0xFF1B",
+        "0xBC10",
+        "0xFB44",
+        "0xFAA9",
+        "0x80A3",
+        "0xC9A6",
+        "0xFDF9",
+        "0xF9AB",
+        "0xF800",
+        "0xE8E4",
+        "0xE909",
+        "0xE807",
+        "0xC006",
+        "0xFAA9",
+        "0xFA20",
+        "0xFB44",
+        "0xE947",
+        "0xE8E4",
+        "0xE00F",
+        "0xF800",
+        "0xF942",
+        "0xF9C9",
+        "0x9168",
+        "0xBA31",
+        "0xA2CA",
+        "0xE005",
+        "0xA880",
+        "0x6A49",
+        "0xC0EA",
+        "0x92EB",
+        "0xAA6A",
+        "0x6001",
+        "0xBC71",
+        "0xC80A",
+        "0x9884",
+        "0xD968",
+        "0xF40E",
+        "0xFC94",
+        "0xF920",
+        "0xF9CA",
+        "0xE005",
+        "0xD220",
+        "0xF618",
+        "0xFB09",
+        "0xA880",
+        "0x7A49",
+        "0xD009",
+        "0xFB70",
+        "0x9800",
+        "0xA905",
+        "0xC043",
+        "0xE206",
+        "0xF2B2",
+        "0xB437",
+        "0x897B",
+        "0x48CF",
+        "0x7337",
+        "0x8311",
+        "0x901A",
+        "0x881F",
+        "0x51EB",
+        "0x8839",
+        "0x6974",
+        "0x598A",
+        "0xB3FB",
+        "0xDD7F",
+        "0xC0B0",
+        "0x9168",
+        "0xBA31",
+        "0x30C9",
+        "0x4950",
+        "0x62B2",
+        "0x781F",
+        "0x3256",
+        "0x7378",
+        "0x781F",
+        "0x91EF",
+        "0x4950",
+        "0x598A",
+        "0xF2B2",
+        "0x8015",
+        "0xEC1D",
+        "0xEC1D",
+        "0x981F",
+        "0xC51B",
+        "0xEF5B",
+        "0xF75A",
+        "0xFFFE",
+        "0xF7BB",
+        "0xE6D8",
+        "0xF739",
+        "0xFFBB",
+        "0xFFF9",
+        "0xEEF7",
+        "0xEF5A",
+        "0xEED0",
+        "0xFFDD",
+        "0xF7BF",
+        "0xFFFD",
+        "0xFEF5",
+        "0xFFBC",
+        "0xEF5A",
+        "0xFFBD",
+        "0xFFDE",
+        "0xF735",
+        "0xFFFF",
+        "0xF7BE",
+        "0x4AA4",
+        "0xE6AD",
+        "0xFD44",
+        "0xFFA0",
+        "0xFFF3",
+        "0xDFE0",
+        "0xFD80",
+        "0xFD20",
+        "0xFFF9",
+        "0xFE80",
+        "0xDD4C",
+        "0x4AEA",
+        "0xFEA0",
+        "0xFEE0",
+        "0xDEF2",
+        "0xAFE6",
+        "0xEF32",
+        "0xEF4C",
+        "0xE6AD",
+        "0xE54B",
+        "0xFFD9",
+        "0xFFE0",
+        "0xFF8A",
+        "0xFFF3",
+        "0xF7DA",
+        "0xFFFB",
+        "0xD72A",
+        "0xF7C7",
+        "0xEDC9",
+        "0xF6EF",
+        "0xADEC",
+        "0xFF40",
+        "0xED8E",
+        "0xFE01",
+        "0xE7D1",
+        "0xF6EA",
+        "0xF6CB",
+        "0x8400",
+        "0xF5E4",
+        "0xF6AD",
+        "0xCF06",
+        "0xFF60",
+        "0xF6CB",
+        "0xEE80",
+        "0xFEA0",
+        "0xFDC0",
+        "0xF6CB",
+        "0xEF20",
+        "0xFFEC",
+        "0xEF61",
+        "0xFFE0",
+        "0xFF30",
+        "0x9E66",
+        "0x3583",
+        "0xC710",
+        "0xEE40",
+        "0xFE80",
+        "0xFD68",
+        "0xFCA1",
+        "0xFEE0",
+        "0xFF60",
+        "0xFFE0",
+        "0xFFE6",
+        "0xFFA0",
+        "0x0257",
+        "0x7DDC",
+        "0xEEF9",
+        "0xE16A",
+        "0x996D",
+        "0x3BCB",
+        "0xFDE0",
+        "0xFBE0",
+        "0x9B39",
+        "0xCCAE",
+        "0x62E4",
+        "0x92F0",
+        "0x80E5",
+        "0x0400",
+        "0x07FF",
+        "0x7FFA",
+        "0xCFE2",
+        "0x8CAF",
+        "0x854D",
+        "0xA145",
+        "0xFF60",
+        "0x5400",
+        "0xF736",
+        "0x8430",
+        "0x9928",
+        "0xFF18",
+        "0x3964",
+        "0xCEE2",
+        "0xBFE0",
+        "0xFF59",
+        "0xA38C",
+        "0xF777",
+        "0xDAF0",
+        "0x7A27",
+        "0x8208",
+        "0xD49D",
+        "0xC109",
+        "0xFAB4",
+        "0xCBE6",
+        "0x8004",
+        "0xDDB0",
+        "0xE3AA",
+        "0xB9B4",
+        "0x534E",
+        "0x9515",
+        "0xA3CB",
+        "0x49A4",
+        "0xBCCD",
+        "0xFFF3",
+        "0x05FF",
+        "0x5944",
+        "0xD008",
+        "0xB0E3",
+        "0x71A8",
+        "0xC2C9",
+        "0xD98C",
+        "0x255A",
+        "0x6CD8",
+        "0x7FE0",
+        "0xA28D",
+        "0x7A00",
+        "0xD344",
+        "0xCB0F",
+        "0xE661",
+        "0x9D44",
+        "0x78C6",
+        "0x6A67",
+        "0x8C95",
+        "0xB386",
+        "0xDC4D",
+        "0xAB6D",
+        "0x9B2C",
+        "0xF9C0",
+        "0xFF4B",
+        "0x3171",
+        "0xFFBC",
+        "0x98E6",
+        "0xA6BB",
+        "0x5A0F",
+        "0xF374",
+        "0x59CA",
+        "0xB421",
+        "0xBDAD",
+        "0x49E6",
+        "0x526A",
+        "0x51E7",
+        "0x9999",
+        "0xE4AF",
+        "0x38A2",
+        "0x0679",
+        "0x52AA",
+        "0xD990",
+        "0xF6B4",
+        "0xB269",
+        "0xFCC6",
+        "0x4B2D",
+        "0x7AEC",
+        "0x1B17",
+        "0xBCCD",
+        "0xD0CD",
+        "0x9383",
+        "0xC590",
+        "0x620A",
+        "0x18A4",
+        "0x681F",
+        "0xCFE0",
+        "0x562F",
+        "0xB412",
+        "0xCA49",
+        "0xBCCD",
+        "0xB1B1",
+        "0xF014",
+        "0xE54E",
+        "0x6AA4",
+        "0xFAAE",
+        "0xE2E9",
+        "0xB104",
+        "0xDAC4",
+        "0xA00D",
+        "0xA3CB",
+        "0x8369",
+        "0xFA12",
+        "0x8311",
+        "0x9FE7",
+        "0xD39A",
+        "0xC169",
+        "0xF251",
+        "0xE1B4",
+        "0xF81F",
+        "0xBAB7",
+        "0xC22E",
+        "0xE420",
+        "0x8204",
+        "0xE4C2",
+        "0x03EC",
+        "0xAC96",
+        "0xA3E0",
+        "0xE5F1",
+        "0x83A9",
+        "0xD567",
+        "0xFEA0",
+        "0xFE00",
+        "0xA713",
+        "0xACD0",
+        "0xDC80",
+        "0xFBC0",
+        "0xF014",
+        "0x753A",
+        "0xFFAB",
+        "0x348E",
+        "0xB74B",
+        "0x4810",
+        "0x020D",
+        "0x5A99",
+        "0xB22D",
+        "0xF77D",
+        "0x054D",
+        "0x9946",
+        "0xF6EF",
+        "0xA06B",
+        "0xF643",
+        "0xBECB",
+        "0xE791",
+        "0xC572",
+        "0xEF31",
+        "0x8963",
+        "0xE4F8",
+        "0xD65B",
+        "0xFFEC",
+        "0xC884",
+        "0xFF7E",
+        "0xB3FB",
+        "0xE73E",
+        "0xFFA0",
+        "0xCD04",
+        "0xFFE0",
+        "0xF757",
+        "0xC56F",
+        "0xC65B",
+        "0xFD0F",
+        "0xC518",
+        "0xACD5",
+        "0xBFE0",
+        "0xF77C",
+        "0xBCCD",
+        "0x6A69",
+        "0x93AA",
+        "0xB365",
+        "0x6964",
+        "0x64D9",
+        "0xFDF1",
+        "0xC9A7",
+        "0xAF79",
+        "0xEF3A",
+        "0xBA00",
+        "0xFF4B",
+        "0xEE29",
+        "0x0ECA",
+        "0x94D5",
+        "0xF3C9",
+        "0xFDE0",
+        "0xFC08",
+        "0xE504",
+        "0xC109",
+        "0x8000",
+        "0xA98C",
+        "0xDD7F",
+        "0x92ED",
+        "0xECD5",
+        "0x66F5",
+        "0xAA06",
+        "0xF735",
+        "0xBABA",
+        "0x4E99",
+        "0xF5AF",
+        "0xFDD5",
+        "0xD567",
+        "0x0BF1",
+        "0x9BE7",
+        "0x8C30",
+        "0x712E",
+        "0x3BAF",
+        "0x4591",
+        "0xF7FE",
+        "0xBD8E",
+        "0x9383",
+        "0x35D1",
+        "0xC293",
+        "0xFECB",
+        "0xD290",
+        "0xAA2F",
+        "0xFD08",
+        "0xFA0C",
+        "0xE7FB",
+        "0xCBA4",
+        "0x4186",
+        "0xCDA7",
+        "0x7B4F",
+        "0x6989",
+        "0x8430",
+        "0x6C64",
+        "0x39A4",
+        "0x9DCE",
+        "0xA617",
+        "0xB434",
+        "0xDCFA",
+        "0x29C7",
+        "0x4800",
+        "0xBE9C",
+        "0x9E1B",
+        "0xC5F7",
+        "0xEF57",
+        "0x8010",
+        "0x534F",
+        "0xFE54",
+        "0xFED6",
+        "0xC67C",
+        "0xD965",
+        "0x308F",
+        "0x70E3",
+        "0xF954",
+        "0xC069",
+        "0x2984",
+        "0x962E",
+        "0x8A30",
+        "0xDD1B",
+        "0x5D32",
+        "0xBA8C",
+        "0x70E3",
+        "0xA534",
+        "0xFD4C",
+        "0xE06B",
+        "0x92ED",
+        "0xB22D",
+        "0xD44B",
+        "0xE12D",
+        "0x8A70",
+        "0x73B2",
+        "0x8452",
+        "0xF80F",
+        "0xF213",
+        "0x9AED",
+        "0xE127",
+        "0xD000",
+        "0xCA2E",
+        "0xD88C",
+        "0xA0E1",
+        "0xB202",
+        "0xBDB1",
+        "0xC590",
+        "0x9383",
+        "0x0334",
+        "0xCD06",
+        "0x7202",
+        "0x8BCB",
+        "0xD432",
+        "0x652F",
+        "0x8963",
+        "0xAD55",
+        "0xC5F7",
+        "0xAD55",
+        "0xBE18",
+        "0xCA01",
+        "0xFEC0",
+        "0xC210",
+        "0x73AE",
+        "0x83A6",
+        "0xC809",
+        "0x03EB",
+        "0xA7C0",
+        "0x87E5",
+        "0x6451",
+        "0xE6CD",
+        "0xF28A",
+        "0xFC8C",
+        "0x926E",
+        "0xFE46",
+        "0xE54B",
+        "0xF6B4",
+        "0xD4CD",
+        "0xF40F",
+        "0xCAA0",
+        "0xDB8B",
+        "0xDEBA",
+        "0x03AB",
+        "0xDD51",
+        "0xF6B4",
+        "0xA3CB",
+        "0xBCD3",
+        "0x8A4D",
+        "0x6289",
+        "0xFEF9",
+        "0x7882",
+        "0xF475",
+        "0xC58B",
+        "0x991D",
+        "0x440D",
+        "0x98E6",
+        "0xFD11",
+        "0xCFE0",
+        "0xF6F6",
+        "0xD394",
+        "0xFA34",
+        "0xFB70",
+        "0xA2A0",
+        "0x7187",
+        "0x6989",
+        "0xF80F",
+        "0x00B4"
+    ],
+    "hexCodes888": [
+        "#5D8AA8",
+        "#F0F8FF",
+        "#6CB4EE",
+        "#0080FF",
+        "#F0FFFF",
+        "#89CFF0",
+        "#003262",
+        "#318CE7",
+        "#1F75FE",
+        "#0093AF",
+        "#0087BD",
+        "#0070FF",
+        "#4997D0",
+        "#246BCE",
+        "#007BA7",
+        "#468fea",
+        "#B9D9EB",
+        "#6495ED",
+        "#00BFFF",
+        "#1F305E",
+        "#1E90FF",
+        "#0072BB",
+        "#1164B4",
+        "#0076B6",
+        "#8AB9F1",
+        "#26619C",
+        "#ADD8E6",
+        "#87CEFA",
+        "#73C2FB",
+        "#87D3F8",
+        "#45B1E8",
+        "#224C98",
+        "#002387",
+        "#002366",
+        "#4169E1",
+        "#76ABDF",
+        "#082567",
+        "#5D89BA",
+        "#87CEEB",
+        "#0070BB",
+        "#4682B4",
+        "#0059CF",
+        "#2D68C4",
+        "#3E8EDE",
+        "#4B92DB",
+        "#7C9ED9",
+        "#00356B",
+        "#3D0C02",
+        "#000000",
+        "#3D0C02",
+        "#1B1811",
+        "#3B2F2F",
+        "#54626F",
+        "#3B3C36",
+        "#BFAFB2",
+        "#36454F",
+        "#232B2B",
+        "#555555",
+        "#696969",
+        "#555D50",
+        "#1B1B1B",
+        "#343434",
+        "#1A1110",
+        "#3B3C36",
+        "#353839",
+        "#414A4C",
+        "#242124",
+        "#004040",
+        "#010B13",
+        "#010203",
+        "#100C08",
+        "#483C32",
+        "#004242",
+        "#C0E8D5",
+        "#72A0C1",
+        "#6CB4EE",
+        "#89CFF0",
+        "#A1CAF1",
+        "#2E5894",
+        "#BCD4E6",
+        "#003262",
+        "#318CE7",
+        "#ACE5EE",
+        "#0000FF",
+        "#A2A2D0",
+        "#333399",
+        "#0000FF",
+        "#1F75FE",
+        "#064E40",
+        "#5DADEC",
+        "#0093AF",
+        "#0087BD",
+        "#0018A8",
+        "#333399",
+        "#0247FE",
+        "#126180",
+        "#8A2BE2",
+        "#4D1A7F",
+        "#7366BD",
+        "#5072A7",
+        "#3C69E7",
+        "#1974D2",
+        "#5F9EA0",
+        "#A9B2C3",
+        "#A3C1AD",
+        "#56A0D3",
+        "#007BA7",
+        "#246BCE",
+        "#2A52BE",
+        "#007AA5",
+        "#468fea",
+        "#0047AB",
+        "#00008B",
+        "#666699",
+        "#26428B",
+        "#536878",
+        "#8CBED6",
+        "#483D8B",
+        "#1F305E",
+        "#2243B6",
+        "#007791",
+        "#00009C",
+        "#1034A6",
+        "#96C8A2",
+        "#15F4EE",
+        "#77B5FE",
+        "#2887C8",
+        "#446CCF",
+        "#99FFFF",
+        "#4C516D",
+        "#120A8F",
+        "#B2FFFF",
+        "#CCCCFF",
+        "#545AA7",
+        "#ADD8E6",
+        "#93CCEA",
+        "#B0C4DE",
+        "#6CA0DC",
+        "#6050DC",
+        "#47ABCC",
+        "#30BFBF",
+        "#ACACE6",
+        "#0000CD",
+        "#7B68EE",
+        "#7ED4E6",
+        "#8DD9CC",
+        "#8B72BE",
+        "#191970",
+        "#8DA399",
+        "#000080",
+        "#1974D2",
+        "#4D4DFF",
+        "#A4DDED",
+        "#4F42B5",
+        "#002147",
+        "#1CA9C9",
+        "#CCCCFF",
+        "#1C39BB",
+        "#8BA8B7",
+        "#000F89",
+        "#2E2787",
+        "#224C98",
+        "#B0E0E6",
+        "#003153",
+        "#436B95",
+        "#002387",
+        "#002366",
+        "#4169E1",
+        "#76ABDF",
+        "#082567",
+        "#0067A5",
+        "#4B61D1",
+        "#778BA5",
+        "#6A5ACD",
+        "#1E2952",
+        "#0070BB",
+        "#00FFFF",
+        "#23297A",
+        "#007BB8",
+        "#008080",
+        "#367588",
+        "#1C05B3",
+        "#00FFEF",
+        "#0033AA",
+        "#4000FF",
+        "#4166F5",
+        "#011F5B",
+        "#AFDBF5",
+        "#004F98",
+        "#324AB2",
+        "#766EC8",
+        "#00CCFF",
+        "#A2ADD0",
+        "#00356B",
+        "#00356B",
+        "#2E5090",
+        "#9F8170",
+        "#F5F5DC",
+        "#967117",
+        "#964B00",
+        "#AF6E4D",
+        "#DAA06D",
+        "#A17A74",
+        "#8A3324",
+        "#954535",
+        "#7B3F00",
+        "#D2691E",
+        "#81613C",
+        "#5C4033",
+        "#EDC9AF",
+        "#996515",
+        "#C3B091",
+        "#6B4423",
+        "#CD853F",
+        "#644117",
+        "#826644",
+        "#A52A2A",
+        "#BC8F8F",
+        "#80461B",
+        "#8B4513",
+        "#F4A460",
+        "#59260B",
+        "#832A0D",
+        "#A83731",
+        "#D2B48C",
+        "#483C32",
+        "#6F4E37",
+        "#664228",
+        "#5C5248",
+        "#645452",
+        "#C19A6B",
+        "#F0FFFF",
+        "#0D98BA",
+        "#006D6F",
+        "#B2FFFF",
+        "#232B2B",
+        "#00FFFF",
+        "#00FFFF",
+        "#00B7EB",
+        "#00B7EB",
+        "#008B8B",
+        "#7DF9FF",
+        "#009966",
+        "#3AB09E",
+        "#E0FFFF",
+        "#20B2AA",
+        "#004C54",
+        "#3AA8C1",
+        "#317873",
+        "#01796F",
+        "#00CCCC",
+        "#007A74",
+        "#80DAEB",
+        "#008080",
+        "#81D8D0",
+        "#40E0D0",
+        "#43B3AE",
+        "#39A78D",
+        "#B2BEB5",
+        "#848482",
+        "#000000",
+        "#6699CC",
+        "#91A3B0",
+        "#36454F",
+        "#98817B",
+        "#9090C0",
+        "#666699",
+        "#2F4F4F",
+        "#555555",
+        "#696969",
+        "#DCDCDC",
+        "#6082B6",
+        "#676767",
+        "#5E716A",
+        "#808080",
+        "#BEBEBE",
+        "#808080",
+        "#2A3439",
+        "#AA98A9",
+        "#343434",
+        "#C4C3D0",
+        "#D3D3D3",
+        "#778899",
+        "#4C5866",
+        "#BEBEBE",
+        "#727472",
+        "#E5E4E2",
+        "#CC8899",
+        "#8A7F8D",
+        "#AA98A9",
+        "#C0C0C0",
+        "#708090",
+        "#989898",
+        "#928E85",
+        "#483C32",
+        "#8B8589",
+        "#FFFFFF",
+        "#738678",
+        "#B0BF1A",
+        "#A4C639",
+        "#8DB600",
+        "#4B6F44",
+        "#064E40",
+        "#006A4E",
+        "#66FF00",
+        "#004225",
+        "#1B4D3E",
+        "#7BB661",
+        "#006B3C",
+        "#00CC99",
+        "#00563F",
+        "#ACE1AF",
+        "#2F847C",
+        "#013220",
+        "#006400",
+        "#1A2421",
+        "#4A5D23",
+        "#556B2F",
+        "#03C03C",
+        "#8FBC8F",
+        "#177245",
+        "#00703C",
+        "#004B49",
+        "#00FF00",
+        "#1B4D3E",
+        "#00FF40",
+        "#71BC78",
+        "#4F7942",
+        "#228B22",
+        "#5FA777",
+        "#014421",
+        "#228B22",
+        "#00AB66",
+        "#00FF00",
+        "#2887C8",
+        "#1CAC78",
+        "#009966",
+        "#008000",
+        "#A7F432",
+        "#00A877",
+        "#009F6B",
+        "#00AD43",
+        "#00A550",
+        "#66B032",
+        "#6EAEA1",
+        "#008000",
+        "#00FF00",
+        "#ADFF2F",
+        "#F0E891",
+        "#3FFF00",
+        "#F0FFF0",
+        "#49796B",
+        "#355E3B",
+        "#138808",
+        "#009000",
+        "#29AB87",
+        "#4CBB17",
+        "#354230",
+        "#A9BA9D",
+        "#7CFC00",
+        "#90EE90",
+        "#32CD32",
+        "#00FF00",
+        "#195905",
+        "#74C365",
+        "#30BFBF",
+        "#5E8C31",
+        "#D9E650",
+        "#4C9141",
+        "#3CB371",
+        "#00FA9A",
+        "#8DD9CC",
+        "#4D8C57",
+        "#ACBF60",
+        "#004953",
+        "#98FB98",
+        "#8A9A5B",
+        "#18453B",
+        "#0D5C33",
+        "#39FF14",
+        "#48BF91",
+        "#B5B35C",
+        "#006600",
+        "#98FB98",
+        "#009B7D",
+        "#50C878",
+        "#00A693",
+        "#123524",
+        "#444C38",
+        "#679267",
+        "#043927",
+        "#507D2A",
+        "#66FF66",
+        "#2E8B57",
+        "#00FFCD",
+        "#55DD33",
+        "#009E60",
+        "#8FD400",
+        "#299617",
+        "#009150",
+        "#00FF7F",
+        "#ECEBBD",
+        "#D0F0C0",
+        "#A0D6B4",
+        "#8A9A5B",
+        "#014421",
+        "#009698",
+        "#56887D",
+        "#9ACD32",
+        "#30B21A",
+        "#C5E384",
+        "#B284BE",
+        "#AB274F",
+        "#856088",
+        "#8B008B",
+        "#563C5C",
+        "#FF1DCE",
+        "#FF00FF",
+        "#FF00FF",
+        "#F653A6",
+        "#CA1F7B",
+        "#9F4576",
+        "#D0417E",
+        "#FF0090",
+        "#FF0090",
+        "#DA70D6",
+        "#843179",
+        "#FE4EDA",
+        "#9A114F",
+        "#FF33CC",
+        "#AA98A9",
+        "#FC0FC0",
+        "#FF6FFF",
+        "#CF71AF",
+        "#CC33CC",
+        "#CF3476",
+        "#5B3256",
+        "#EE82EE",
+        "#C46210",
+        "#FBCEB1",
+        "#FF9966",
+        "#964B00",
+        "#BF5700",
+        "#E09540",
+        "#ED872D",
+        "#ED9121",
+        "#FF7F50",
+        "#FF8C00",
+        "#FE5A1D",
+        "#DAA520",
+        "#E8AC41",
+        "#FF4F00",
+        "#FF4F00",
+        "#BA160C",
+        "#C0362C",
+        "#C3B091",
+        "#FED8B1",
+        "#FF7F00",
+        "#FF8000",
+        "#FF7538",
+        "#E86100",
+        "#FF5800",
+        "#FF9F00",
+        "#FF681F",
+        "#FF5349",
+        "#FA5B3D",
+        "#FFA500",
+        "#FFA500",
+        "#F5BD1F",
+        "#F8D568",
+        "#FF6E4A",
+        "#FFEFD5",
+        "#FFE5B4",
+        "#D99058",
+        "#EC5800",
+        "#FF5A36",
+        "#EE7F2D",
+        "#FF7518",
+        "#FF5349",
+        "#FF4500",
+        "#FF681F",
+        "#FF7900",
+        "#FF6700",
+        "#F4C430",
+        "#E86100",
+        "#F28500",
+        "#FB4D46",
+        "#B56917",
+        "#FF8200",
+        "#F1B42F",
+        "#FFAE42",
+        "#FF9505",
+        "#F19CBB",
+        "#F4C2C2",
+        "#FF91AF",
+        "#DA1884",
+        "#FB607F",
+        "#F58092",
+        "#EFBBCC",
+        "#E4717A",
+        "#FFA6C9",
+        "#F1DDCF",
+        "#E68FAC",
+        "#FFB7C5",
+        "#E8C3BA",
+        "#DE6FA1",
+        "#F88379",
+        "#F88379",
+        "#FFBCD9",
+        "#FF1493",
+        "#F2C1D1",
+        "#DE5285",
+        "#FD6C9E",
+        "#FF69B4",
+        "#FBAED2",
+        "#FF5CCD",
+        "#FFB3DE",
+        "#FFB6C1",
+        "#E4007C",
+        "#FFDAE9",
+        "#997A8D",
+        "#F6ADC6",
+        "#D7837F",
+        "#F2BDCD",
+        "#EDCDC2",
+        "#F9CCCA",
+        "#E63E62",
+        "#DEA5A4",
+        "#F77FBE",
+        "#FDDDE6",
+        "#FFC0CB",
+        "#FC74FD",
+        "#F7BFBE",
+        "#FFDDF4",
+        "#DBB2D1",
+        "#D74894",
+        "#F78FA7",
+        "#E8CCD7",
+        "#FF66CC",
+        "#ED7A9B",
+        "#FF91AF",
+        "#FC0FC0",
+        "#FF6FFF",
+        "#C4AEAD",
+        "#893843",
+        "#F7BFBE",
+        "#CC33CC",
+        "#CF6BA9",
+        "#E4717A",
+        "#DE6FA1",
+        "#FC89AC",
+        "#FF6FFF",
+        "#702963",
+        "#301934",
+        "#BF00FF",
+        "#6C3082",
+        "#CC397B",
+        "#5218FA",
+        "#DF73FF",
+        "#512888",
+        "#DE6FA1",
+        "#880085",
+        "#E0B0FF",
+        "#ACACE6",
+        "#733380",
+        "#A63A79",
+        "#9370DB",
+        "#8B72BE",
+        "#D982B5",
+        "#A55353",
+        "#C54B8C",
+        "#4E2A84",
+        "#DA70D6",
+        "#72246C",
+        "#682860",
+        "#FAE6FA",
+        "#FAE6FA",
+        "#78184A",
+        "#B768A2",
+        "#DF00FF",
+        "#5946B2",
+        "#86608E",
+        "#DF00FF",
+        "#800080",
+        "#800080",
+        "#9678B6",
+        "#9F00C5",
+        "#4E5180",
+        "#FE4EDA",
+        "#9C51B6",
+        "#800080",
+        "#A020F0",
+        "#A020F0",
+        "#9A4EAE",
+        "#663399",
+        "#E40078",
+        "#C71585",
+        "#7851A9",
+        "#D8BFD8",
+        "#66023C",
+        "#D3212D",
+        "#7C0902",
+        "#FE6F5E",
+        "#BF4F51",
+        "#660000",
+        "#CB4154",
+        "#FB607F",
+        "#E30022",
+        "#FF0800",
+        "#FDBCB4",
+        "#C51E3A",
+        "#960018",
+        "#E03C31",
+        "#E23D28",
+        "#AA381E",
+        "#58111A",
+        "#E44D2E",
+        "#CB6D51",
+        "#F88379",
+        "#893F45",
+        "#B31B1B",
+        "#DC143C",
+        "#F5F5F5",
+        "#8B0000",
+        "#AB4B52",
+        "#801818",
+        "#B22222",
+        "#CE2029",
+        "#733635",
+        "#ED2939",
+        "#CD5C5C",
+        "#D05340",
+        "#F08080",
+        "#FF7F7F",
+        "#E62020",
+        "#A50021",
+        "#800000",
+        "#D92121",
+        "#A63A79",
+        "#F2BA49",
+        "#E2062C",
+        "#C71585",
+        "#E58E73",
+        "#A55353",
+        "#ECB176",
+        "#FFE4E1",
+        "#C08081",
+        "#FF681F",
+        "#FF5349",
+        "#841617",
+        "#CC3333",
+        "#FFC0CB",
+        "#FF355E",
+        "#FF0000",
+        "#ED1B24",
+        "#EE204E",
+        "#F2003C",
+        "#C40234",
+        "#FF5349",
+        "#FF4500",
+        "#FF681F",
+        "#ED2839",
+        "#ED1C24",
+        "#E40078",
+        "#FF0000",
+        "#FE2712",
+        "#FD3A4A",
+        "#922B3E",
+        "#C0448F",
+        "#A45953",
+        "#E60026",
+        "#A91101",
+        "#674846",
+        "#C21E56",
+        "#905D5D",
+        "#AB4E52",
+        "#65000B",
+        "#BC8F8F",
+        "#D10056",
+        "#9B111E",
+        "#DA2C43",
+        "#FA8072",
+        "#FF91A4",
+        "#FF2400",
+        "#FF3855",
+        "#E60026",
+        "#D44500",
+        "#F4C2C2",
+        "#FF6347",
+        "#A91101",
+        "#7C4848",
+        "#D9004C",
+        "#FC6C85",
+        "#990000",
+        "#AE2029",
+        "#C80815",
+        "#E34234",
+        "#F75394",
+        "#B284BE",
+        "#8A2BE2",
+        "#4D1A7F",
+        "#7366BD",
+        "#856088",
+        "#9400D3",
+        "#8F00FF",
+        "#563C5C",
+        "#8806CE",
+        "#6F2DA8",
+        "#5B3256",
+        "#B57EDC",
+        "#E0B0FF",
+        "#C71585",
+        "#922B3E",
+        "#C0448F",
+        "#32174D",
+        "#4C2882",
+        "#645394",
+        "#7F00FF",
+        "#324AB2",
+        "#766EC8",
+        "#7F00FF",
+        "#963D7F",
+        "#4C2882",
+        "#5B3256",
+        "#F75394",
+        "#8601AF",
+        "#EE82EE",
+        "#EE82EE",
+        "#9F00FF",
+        "#C9A0DC",
+        "#EDEAE0",
+        "#FAEBD7",
+        "#FEFEFA",
+        "#F5F5DC",
+        "#E3DAC9",
+        "#F7E7CE",
+        "#FFF8DC",
+        "#FFFDD0",
+        "#EFDFBB",
+        "#F0EAD6",
+        "#EEDC82",
+        "#FFFAF0",
+        "#F8F8FF",
+        "#FFFFF0",
+        "#FFDEAD",
+        "#FDF5E6",
+        "#F1E9D2",
+        "#FFF5EE",
+        "#FFFAFA",
+        "#F3E5AB",
+        "#FFFFFF",
+        "#F5F5F5",
+        "#4B5320",
+        "#E9D66B",
+        "#FFAA1D",
+        "#FFF600",
+        "#FFFF99",
+        "#DFFF00",
+        "#FFB200",
+        "#FFA700",
+        "#FFFDD0",
+        "#FFD300",
+        "#E1A95F",
+        "#4D5D53",
+        "#FFD700",
+        "#FFDF00",
+        "#DADD98",
+        "#ADFF2F",
+        "#F0E891",
+        "#EEEA62",
+        "#E9D66B",
+        "#E3A857",
+        "#FFFACD",
+        "#FDFF00",
+        "#FFF44F",
+        "#FFFF9F",
+        "#FAFAD2",
+        "#FFFFE0",
+        "#D9E650",
+        "#FAFA37",
+        "#F2BA49",
+        "#F8DE7E",
+        "#ACBF60",
+        "#FFEB00",
+        "#ECB176",
+        "#FFC40C",
+        "#E3F988",
+        "#F5E050",
+        "#FADA5E",
+        "#808000",
+        "#F5BD1F",
+        "#F8D568",
+        "#D1E231",
+        "#FFEF00",
+        "#FADA5E",
+        "#EED202",
+        "#FFD800",
+        "#FFBA00",
+        "#FADA5E",
+        "#EEE600",
+        "#FFFF66",
+        "#EEED09",
+        "#FFFF00",
+        "#FCE883",
+        "#9ACD32",
+        "#30B21A",
+        "#C5E384",
+        "#EFCC00",
+        "#FFD300",
+        "#FFAE42",
+        "#FF9505",
+        "#FEDF00",
+        "#FFEF00",
+        "#FFFF00",
+        "#FEFE33",
+        "#FFF700",
+        "#0048BA",
+        "#7CB9E8",
+        "#EFDECD",
+        "#E52B50",
+        "#9F2B68",
+        "#3B7A57",
+        "#FFBF00",
+        "#FF7E00",
+        "#9966CC",
+        "#CD9575",
+        "#665D1E",
+        "#915C83",
+        "#841B2D",
+        "#008000",
+        "#00FFFF",
+        "#7FFFD4",
+        "#D0FF14",
+        "#8F9779",
+        "#87A96B",
+        "#A52A2A",
+        "#FDEE00",
+        "#568203",
+        "#FAE7B5",
+        "#848482",
+        "#9C2542",
+        "#FFE4C4",
+        "#3D2B1F",
+        "#CAE00D",
+        "#BFFF00",
+        "#FFEBCD",
+        "#A57164",
+        "#FAF0BE",
+        "#DE5D83",
+        "#79443B",
+        "#87413F",
+        "#D891EF",
+        "#C32148",
+        "#FF55A3",
+        "#CD7F32",
+        "#800020",
+        "#DEB887",
+        "#E97451",
+        "#BD33A4",
+        "#536872",
+        "#91A3B0",
+        "#A67B5B",
+        "#4B3621",
+        "#C19A6B",
+        "#FFFF99",
+        "#00BFFF",
+        "#592720",
+        "#D70040",
+        "#B31B1B",
+        "#703642",
+        "#C95A49",
+        "#DE3163",
+        "#1DACD6",
+        "#6D9BC3",
+        "#7FFF00",
+        "#A8516E",
+        "#7B3F00",
+        "#D2691E",
+        "#CD607E",
+        "#E4D00A",
+        "#9FA91F",
+        "#7F1734",
+        "#6F4E37",
+        "#8C92AC",
+        "#B87333",
+        "#DA8A67",
+        "#AD6F69",
+        "#996666",
+        "#FF3800",
+        "#FBEC5D",
+        "#2E2D88",
+        "#FFF8E7",
+        "#9E1B32",
+        "#A7D8DE",
+        "#58427C",
+        "#F56FA1",
+        "#5D3954",
+        "#B8860B",
+        "#BDB76B",
+        "#483C32",
+        "#534B4F",
+        "#543D37",
+        "#9932CC",
+        "#E9967A",
+        "#3C1414",
+        "#00CED1",
+        "#555555",
+        "#DA3287",
+        "#FAD6A5",
+        "#B94E48",
+        "#FF9933",
+        "#4A646C",
+        "#7E5E60",
+        "#1560BD",
+        "#C19A6B",
+        "#D71868",
+        "#967117",
+        "#C2B280",
+        "#614051",
+        "#16161D",
+        "#6F00FF",
+        "#CCFF00",
+        "#50C878",
+        "#B48395",
+        "#CC474B",
+        "#C19A6B",
+        "#B53389",
+        "#F400A1",
+        "#E5AA70",
+        "#6C541E",
+        "#FF5470",
+        "#E95C4B",
+        "#B22222",
+        "#E25822",
+        "#A2006D",
+        "#A67B5B",
+        "#856D4D",
+        "#FD3F92",
+        "#86608E",
+        "#9EFD38",
+        "#D473D4",
+        "#C72C48",
+        "#F64A8A",
+        "#E936A7",
+        "#FF00FF",
+        "#C154C1",
+        "#C74375",
+        "#E48400",
+        "#87421F",
+        "#E49B0F",
+        "#007F66",
+        "#AB92B3",
+        "#A57C00",
+        "#E6BE8A",
+        "#85754E",
+        "#D4AF37",
+        "#FFD700",
+        "#FCC200",
+        "#A8E4A0",
+        "#A99A86",
+        "#DA9100",
+        "#FF7A00",
+        "#F400A1",
+        "#71A6D2",
+        "#FCF75E",
+        "#319177",
+        "#B2EC5D",
+        "#4B0082",
+        "#00416A",
+        "#5A4FCF",
+        "#B3446C",
+        "#F4F0EC",
+        "#00A86B",
+        "#9D2933",
+        "#F8DE7E",
+        "#A50B5E",
+        "#F4CA16",
+        "#BDDA57",
+        "#E8F48C",
+        "#C3B091",
+        "#F0E68C",
+        "#882D17",
+        "#E79FC4",
+        "#D6CADD",
+        "#FFFF66",
+        "#CF1020",
+        "#FFF0F5",
+        "#B57EDC",
+        "#E6E6FA",
+        "#FFF700",
+        "#CCA01D",
+        "#FDFF00",
+        "#F6EABE",
+        "#C8AD7F",
+        "#C5CBE1",
+        "#FFA07A",
+        "#C8A2C8",
+        "#AE98AA",
+        "#BFFF00",
+        "#FAF0E6",
+        "#C19A6B",
+        "#674C47",
+        "#987456",
+        "#B86D29",
+        "#6C2E1F",
+        "#6699CC",
+        "#FFBD88",
+        "#CC3336",
+        "#AAF0D1",
+        "#F2E8D7",
+        "#C04000",
+        "#FBEC5D",
+        "#F2C649",
+        "#0BDA51",
+        "#979AAA",
+        "#F37A48",
+        "#FDBE02",
+        "#FF8243",
+        "#EAA221",
+        "#C32148",
+        "#800000",
+        "#B03060",
+        "#E0B0FF",
+        "#915F6D",
+        "#EF98AA",
+        "#66DDAA",
+        "#AF4035",
+        "#F3E5AB",
+        "#BA55D3",
+        "#48D1CC",
+        "#F8B878",
+        "#FEBAAD",
+        "#D3AF37",
+        "#0A7E8C",
+        "#9C7C38",
+        "#8B8680",
+        "#702670",
+        "#36747D",
+        "#3EB489",
+        "#F5FFFA",
+        "#BBB477",
+        "#967117",
+        "#30BA8F",
+        "#C8509B",
+        "#FFDB58",
+        "#D65282",
+        "#AD4379",
+        "#FFA343",
+        "#FE4164",
+        "#E9FFDB",
+        "#CC7722",
+        "#43302E",
+        "#CFB53B",
+        "#796878",
+        "#673147",
+        "#848482",
+        "#6B8E23",
+        "#3C341F",
+        "#9AB973",
+        "#A8C3BC",
+        "#B784A7",
+        "#E29CD2",
+        "#2D383A",
+        "#4A0000",
+        "#BCD4E6",
+        "#9BC4E2",
+        "#C9C0BB",
+        "#ECEBBD",
+        "#800080",
+        "#536878",
+        "#FFCBA4",
+        "#FFDAB9",
+        "#C3CDE6",
+        "#E12C2C",
+        "#32127A",
+        "#701C1C",
+        "#FE28A2",
+        "#C30B4E",
+        "#2A2F23",
+        "#93C572",
+        "#8E4585",
+        "#DDA0DD",
+        "#5DA493",
+        "#BE4F62",
+        "#701C1C",
+        "#A6A6A6",
+        "#FBAB60",
+        "#E30B5D",
+        "#915F6D",
+        "#B3446C",
+        "#D68A59",
+        "#E3256B",
+        "#8D4E85",
+        "#777696",
+        "#838996",
+        "#FF007F",
+        "#F9429E",
+        "#9E5E6F",
+        "#E32636",
+        "#D40000",
+        "#CE4676",
+        "#E0115F",
+        "#A81C07",
+        "#B7410E",
+        "#BCB88A",
+        "#C2B280",
+        "#967117",
+        "#0067A5",
+        "#CBA135",
+        "#704214",
+        "#8A795D",
+        "#D98695",
+        "#5FA778",
+        "#882D17",
+        "#ACACAC",
+        "#C9C0BB",
+        "#AAA9AD",
+        "#BFC1C2",
+        "#CB410B",
+        "#FFDB00",
+        "#C84186",
+        "#757575",
+        "#807532",
+        "#D10047",
+        "#007F5C",
+        "#A7FC00",
+        "#87FF2A",
+        "#5F8A8B",
+        "#E4D96F",
+        "#FA5053",
+        "#ff9361",
+        "#914E75",
+        "#FFCC33",
+        "#E3AB57",
+        "#FAD6A5",
+        "#D99A6C",
+        "#F88379",
+        "#CD5700",
+        "#E2725B",
+        "#DBD7D2",
+        "#00755E",
+        "#DEAA88",
+        "#FAD6A5",
+        "#A67B5B",
+        "#C09999",
+        "#8A496B",
+        "#635147",
+        "#FFDDCA",
+        "#7B1113",
+        "#F38FA9",
+        "#C5B358",
+        "#A020F0",
+        "#40826D",
+        "#9F1D35",
+        "#FFA089",
+        "#CEFF00",
+        "#F5DEB3",
+        "#D470A2",
+        "#FF43A4",
+        "#FC6C85",
+        "#A75502",
+        "#722F37",
+        "#673147",
+        "#FF007C",
+        "#0014A8"
+    ]
+}
